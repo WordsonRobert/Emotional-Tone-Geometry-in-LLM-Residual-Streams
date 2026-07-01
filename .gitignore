@@ -1,0 +1,11 @@
+# raw model weights / activations / probe artifacts
+*.pt
+model/
+outputs/
+
+# logs and checkpoints
+*.log
+*checkpoint*.json
+
+# this helper script — delete once you've run it, or keep, your call
+populate_repo.sh

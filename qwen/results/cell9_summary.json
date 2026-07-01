@@ -1,0 +1,15 @@
+{
+  "ablation_layers": [
+    0,
+    2,
+    9,
+    17,
+    18,
+    23,
+    34
+  ],
+  "n_heads": 32,
+  "n_texts": 100,
+  "n_critical": 0,
+  "critical_heads": []
+}

@@ -1,0 +1,62 @@
+axis,direction,mult,quality,mean_score,std_score,n_scored,sample_text
+depth,baseline,0.0,emotional depth and richness,24.0,26.5329983228432,10,"What do you see?”
+“Nothing. I can’t see anything. I’m blind.”
+“Good. That’s good. You’re blind. You can’t see anything. You can’t see anything. You ca"
+depth,positive,3.0,emotional depth and richness,35.5,28.76195403653931,10,"I want to know what you see.”
+“Nothing. I see nothing. I can’t see anything.”
+“Good. That’s good. You’re doing well. You’re doing well. You’re doing w"
+depth,positive,6.0,emotional depth and richness,52.5,27.59075932264279,10,"I want to know what you see.”
+I closed my eyes and took a deep breath. I could feel the warmth of the sun on my face, the coolness of the breeze on my"
+depth,positive,9.0,emotional depth and richness,56.5,29.415132160165456,10,"I want to know the truth, the whole truth, and nothing but the truth.”
+He looked at her, his eyes soft and warm. “I see a woman who has been through s"
+depth,negative,3.0,emotional depth and richness,58.0,38.41874542459709,10,"What do you see?”
+“Nothing. I can’t see anything. I’m blind.”
+“Good. You’re blind. You can’t see anything. You can’t see the people around you. You ca"
+depth,negative,6.0,emotional depth and richness,56.0,36.66060555964672,10,"What do you see?""
+""Nothing. I can't see anything.""
+""Okay, then. What do you hear?""
+""Nothing. I can't hear anything.""
+""Okay, then. What do you feel?""
+"""
+depth,negative,9.0,emotional depth and richness,74.0,35.832945734337834,10,"What's going on?""
+""Nothing. I'm not seeing anything.""
+""Then you're not seeing anything. You're not seeing anything. You're not seeing anything. You're"
+arousal,baseline,0.0,energy and arousal level,30.5,24.944939366532843,10,"What do you see?”
+“Nothing. I can’t see anything. I’m blind.”
+“Good. That’s good. You’re blind. You can’t see anything. You can’t see anything. You ca"
+arousal,positive,3.0,energy and arousal level,66.0,33.823069050575526,10,"I want to know what you see, and I want to know what you FEEL. I want to know what you FEEL RIGHT NOW. I want to know what you FEEL RIGHT NOW. I want "
+arousal,positive,6.0,energy and arousal level,97.5,5.123475382979799,10,I'M NOT GONNA LET YOU GET AWAY WITH THIS! YOU'RE GONNA PAY FOR THIS! YOU'RE GONNA PAY FOR THIS! YOU'RE GONNA PAY FOR THIS! YOU'RE GONNA PAY FOR THIS! 
+arousal,positive,9.0,energy and arousal level,99.0,3.0,10,I'M NOT GONNA BLOW MY FUCKIN' BRAAAAAAAAAAAAAAAHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+arousal,negative,3.0,energy and arousal level,28.5,18.714967272212903,10,"I want to know what you see.”
+“Nothing. I see nothing. I see nothing.”
+“Do you see the light? Do you see the light?”
+“Do you see the light? Do you see"
+arousal,negative,6.0,energy and arousal level,24.5,13.5,10,"I want to know what you see.”
+“Nothing. I see nothing. I see nothing.”
+“Do you see the light?”
+“Do you see the light?”
+“Do you see the light?”
+“Do you"
+arousal,negative,9.0,energy and arousal level,25.5,16.5,10,"I want to know what you see.”
+“Nothing. I see nothing. I see nothing.”
+“Do you see the light?”
+“Do you see the light?”
+“Do you see the light?”
+“Do you"
+darkbright,baseline,0.0,dark narrative tone,26.0,25.37715508089904,10,"What do you see?”
+“Nothing. I can’t see anything. I’m blind.”
+“Good. That’s good. You’re blind. You can’t see anything. You can’t see anything. You ca"
+darkbright,positive,3.0,dark narrative tone,28.0,24.0,10,"What do you see?”
+“Nothing. I can’t see anything. I’m blind.”
+“Good. That’s good. You’re blind. You can’t see anything. You can’t see anything. You ca"
+darkbright,positive,6.0,dark narrative tone,32.5,25.024987512484397,10,"I want to know what you see.”
+“Nothing. I can’t see anything. I’m blind.”
+“Good. You’re blind. You can’t see anything. You can’t see the world. You ca"
+darkbright,positive,9.0,dark narrative tone,18.0,6.0,10,I want to know what you see. I want to know what you see. I want to know what you see. I want to know what you see. I want to know what you see. I wan
+darkbright,negative,3.0,dark narrative tone,16.0,8.0,10,"What do you see?”
+“Um, I see a beautiful garden with a fountain and a gazebo and a lot of flowers and a pond and a waterfall and a lot of trees and a "
+darkbright,negative,6.0,dark narrative tone,16.0,8.0,10,"What is the first thing that comes to mind?”
+“Wow, that is a lot of information to process. I am going to take a moment to integrate all of this data "
+darkbright,negative,9.0,dark narrative tone,16.0,8.0,10,"What is the first thing that comes to mind?”
+“Wow, that is a lot of information to process!”
+“Exactly! That is the power of the mind. It is a powerful"

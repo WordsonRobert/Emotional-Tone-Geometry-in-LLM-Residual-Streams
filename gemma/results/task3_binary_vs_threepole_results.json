@@ -1,0 +1,16 @@
+{
+  "mel_horror_bleed": 0.135,
+  "humor_other_bleed": 0.125,
+  "bleed_ratio": 1.08,
+  "sv_cosines": {
+    "humor_humor": 1.0,
+    "humor_melancholy": -1.0,
+    "humor_horror": -0.535007119178772,
+    "melancholy_humor": -1.0,
+    "melancholy_melancholy": 1.0,
+    "melancholy_horror": 0.535007119178772,
+    "horror_humor": -0.535007119178772,
+    "horror_melancholy": 0.535007119178772,
+    "horror_horror": 1.0
+  }
+}

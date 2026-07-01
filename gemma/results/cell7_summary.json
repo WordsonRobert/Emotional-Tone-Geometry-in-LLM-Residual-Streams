@@ -1,0 +1,44 @@
+{
+  "model": "google/gemma-3-4b-it",
+  "eval_temp": 0.2,
+  "best_temp": 0.2,
+  "avg_diagonal": 0.7433333333333333,
+  "per_emotion": {
+    "humor": {
+      "both": 0.54,
+      "pred": 0.5,
+      "coherent": 0.54,
+      "mean_shift": 1721.9557690429688
+    },
+    "melancholy": {
+      "both": 0.52,
+      "pred": 0.76,
+      "coherent": 0.58,
+      "mean_shift": 608.2903869628906
+    },
+    "horror": {
+      "both": 0.49,
+      "pred": 0.97,
+      "coherent": 0.52,
+      "mean_shift": 807.1830877685547
+    }
+  },
+  "configs": {
+    "humor": {
+      "layer": 29,
+      "mult": 6.0,
+      "both": 0.6666666666666666
+    },
+    "melancholy": {
+      "layer": 0,
+      "mult": 12.0,
+      "both": 0.6666666666666666
+    },
+    "horror": {
+      "layer": 0,
+      "mult": 15.0,
+      "both": 0.7333333333333333
+    },
+    "best_temp": 0.2
+  }
+}

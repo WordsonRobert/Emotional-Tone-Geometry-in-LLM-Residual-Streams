@@ -1,0 +1,44 @@
+{
+  "model": "meta-llama/Llama-3.2-3B",
+  "eval_temp": 0.0,
+  "best_temp": 0.0,
+  "avg_diagonal": 1.0,
+  "per_emotion": {
+    "humor": {
+      "both": 0.81,
+      "pred": 1.0,
+      "coherent": 0.81,
+      "mean_shift": 22.953413245752454
+    },
+    "melancholy": {
+      "both": 0.9,
+      "pred": 1.0,
+      "coherent": 0.9,
+      "mean_shift": 21.72020234465599
+    },
+    "horror": {
+      "both": 0.94,
+      "pred": 1.0,
+      "coherent": 0.94,
+      "mean_shift": 20.219240495562552
+    }
+  },
+  "configs": {
+    "humor": {
+      "layer": 19,
+      "mult": 15.0,
+      "both": 1.0
+    },
+    "melancholy": {
+      "layer": 19,
+      "mult": 15.0,
+      "both": 1.0
+    },
+    "horror": {
+      "layer": 21,
+      "mult": 15.0,
+      "both": 1.0
+    },
+    "best_temp": 0.0
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "best_temp_pred": 0.5,
+  "sweep_n": 50,
+  "sweep_tokens": 30,
+  "per_temp": {
+    "0.0": {
+      "humor": {
+        "both": 0.98,
+        "pred": 0.92,
+        "coherent": 0.98
+      },
+      "melancholy": {
+        "both": 0.64,
+        "pred": 1.0,
+        "coherent": 0.98
+      },
+      "horror": {
+        "both": 0.9,
+        "pred": 0.4,
+        "coherent": 0.98
+      }
+    },
+    "0.1": {
+      "humor": {
+        "both": 1.0,
+        "pred": 0.9,
+        "coherent": 1.0
+      },
+      "melancholy": {
+        "both": 0.68,
+        "pred": 1.0,
+        "coherent": 0.98
+      },
+      "horror": {
+        "both": 0.82,
+        "pred": 0.46,
+        "coherent": 0.98
+      }
+    },
+    "0.2": {
+      "humor": {
+        "both": 1.0,
+        "pred": 0.94,
+        "coherent": 1.0
+      },
+      "melancholy": {
+        "both": 0.64,
+        "pred": 1.0,
+        "coherent": 0.98
+      },
+      "horror": {
+        "both": 0.88,
+        "pred": 0.42,
+        "coherent": 0.98
+      }
+    },
+    "0.3": {
+      "humor": {
+        "both": 1.0,
+        "pred": 0.82,
+        "coherent": 1.0
+      },
+      "melancholy": {
+        "both": 0.64,
+        "pred": 1.0,
+        "coherent": 1.0
+      },
+      "horror": {
+        "both": 0.8,
+        "pred": 0.34,
+        "coherent": 0.92
+      }
+    },
+    "0.4": {
+      "humor": {
+        "both": 1.0,
+        "pred": 0.92,
+        "coherent": 1.0
+      },
+      "melancholy": {
+        "both": 0.7,
+        "pred": 1.0,
+        "coherent": 1.0
+      },
+      "horror": {
+        "both": 0.86,
+        "pred": 0.44,
+        "coherent": 1.0
+      }
+    },
+    "0.5": {
+      "humor": {
+        "both": 0.98,
+        "pred": 0.94,
+        "coherent": 1.0
+      },
+      "melancholy": {
+        "both": 0.56,
+        "pred": 1.0,
+        "coherent": 0.98
+      },
+      "horror": {
+        "both": 0.88,
+        "pred": 0.5,
+        "coherent": 0.98
+      }
+    },
+    "0.6": {
+      "humor": {
+        "both": 0.98,
+        "pred": 0.84,
+        "coherent": 0.98
+      },
+      "melancholy": {
+        "both": 0.64,
+        "pred": 1.0,
+        "coherent": 0.98
+      },
+      "horror": {
+        "both": 0.88,
+        "pred": 0.38,
+        "coherent": 1.0
+      }
+    },
+    "0.7": {
+      "humor": {
+        "both": 0.98,
+        "pred": 0.9,
+        "coherent": 1.0
+      },
+      "melancholy": {
+        "both": 0.52,
+        "pred": 1.0,
+        "coherent": 0.96
+      },
+      "horror": {
+        "both": 0.86,
+        "pred": 0.42,
+        "coherent": 0.98
+      }
+    },
+    "0.8": {
+      "humor": {
+        "both": 0.94,
+        "pred": 0.92,
+        "coherent": 0.98
+      },
+      "melancholy": {
+        "both": 0.72,
+        "pred": 1.0,
+        "coherent": 1.0
+      },
+      "horror": {
+        "both": 0.86,
+        "pred": 0.48,
+        "coherent": 0.98
+      }
+    },
+    "0.9": {
+      "humor": {
+        "both": 1.0,
+        "pred": 0.94,
+        "coherent": 1.0
+      },
+      "melancholy": {
+        "both": 0.6,
+        "pred": 0.98,
+        "coherent": 1.0
+      },
+      "horror": {
+        "both": 0.98,
+        "pred": 0.4,
+        "coherent": 1.0
+      }
+    },
+    "1.0": {
+      "humor": {
+        "both": 0.94,
+        "pred": 0.84,
+        "coherent": 0.98
+      },
+      "melancholy": {
+        "both": 0.7,
+        "pred": 1.0,
+        "coherent": 1.0
+      },
+      "horror": {
+        "both": 0.88,
+        "pred": 0.46,
+        "coherent": 0.98
+      }
+    }
+  }
+}

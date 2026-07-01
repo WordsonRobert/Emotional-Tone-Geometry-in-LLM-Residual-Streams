@@ -1,0 +1,18 @@
+{
+  "humor": {
+    "layer": 19,
+    "mult": 15.0,
+    "both": 1.0
+  },
+  "melancholy": {
+    "layer": 19,
+    "mult": 15.0,
+    "both": 1.0
+  },
+  "horror": {
+    "layer": 21,
+    "mult": 15.0,
+    "both": 1.0
+  },
+  "best_temp": 0.0
+}

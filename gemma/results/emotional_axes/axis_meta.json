@@ -1,0 +1,336 @@
+{
+  "model": "google/gemma-3-4b-it",
+  "probe_layer": 32,
+  "depth": {
+    "pc": 1,
+    "variance": 0.27431362867355347,
+    "positive": "emotional richness",
+    "negative": "detachment/flatness"
+  },
+  "arousal": {
+    "pc": 2,
+    "variance": 0.1344781219959259,
+    "positive": "high arousal (frenzy/panic)",
+    "negative": "calm/serene"
+  },
+  "darkbright": {
+    "pc": 3,
+    "variance": 0.11518486589193344,
+    "positive": "dark (horror/grief/dread)",
+    "negative": "bright (joy/elation)"
+  },
+  "emnlp_poles": {
+    "humor": {
+      "depth": -3570.397705078125,
+      "arousal": -9.150283813476562,
+      "darkbright": -1393.01953125
+    },
+    "melancholy": {
+      "depth": 1917.060546875,
+      "arousal": -705.9295654296875,
+      "darkbright": 8.388423919677734
+    },
+    "horror": {
+      "depth": 1292.375,
+      "arousal": 666.05810546875,
+      "darkbright": 1394.6021728515625
+    }
+  },
+  "all_tones": {
+    "affection": {
+      "depth": 1061.2633056640625,
+      "arousal": -295.21649169921875,
+      "darkbright": -1635.239013671875
+    },
+    "ambivalence": {
+      "depth": 178.7930450439453,
+      "arousal": -474.4512023925781,
+      "darkbright": 538.9541015625
+    },
+    "analytical": {
+      "depth": -1564.41357421875,
+      "arousal": -841.6622314453125,
+      "darkbright": -1321.28173828125
+    },
+    "anxiety": {
+      "depth": -1494.2001953125,
+      "arousal": -141.28005981445312,
+      "darkbright": 801.314697265625
+    },
+    "apathy": {
+      "depth": -3878.681396484375,
+      "arousal": -1526.216552734375,
+      "darkbright": 1192.161865234375
+    },
+    "awe": {
+      "depth": 2529.992919921875,
+      "arousal": 500.68231201171875,
+      "darkbright": -441.698974609375
+    },
+    "bittersweet": {
+      "depth": 1128.27392578125,
+      "arousal": -282.15185546875,
+      "darkbright": -428.435791015625
+    },
+    "boredom": {
+      "depth": -3100.6494140625,
+      "arousal": -1318.241455078125,
+      "darkbright": 951.2177124023438
+    },
+    "clinical": {
+      "depth": -1744.811279296875,
+      "arousal": -1055.8076171875,
+      "darkbright": -1560.0057373046875
+    },
+    "desolation": {
+      "depth": 185.76248168945312,
+      "arousal": -836.51318359375,
+      "darkbright": 1662.2576904296875
+    },
+    "despair": {
+      "depth": -943.5374145507812,
+      "arousal": -482.43585205078125,
+      "darkbright": 1253.456787109375
+    },
+    "detachment": {
+      "depth": -394.6941223144531,
+      "arousal": -1379.9412841796875,
+      "darkbright": -119.80477142333984
+    },
+    "disgust": {
+      "depth": 88.89566040039062,
+      "arousal": 861.9188232421875,
+      "darkbright": 1072.9542236328125
+    },
+    "dread": {
+      "depth": 398.50775146484375,
+      "arousal": 20.667552947998047,
+      "darkbright": 1121.85009765625
+    },
+    "dry": {
+      "depth": -1725.3076171875,
+      "arousal": -1162.782470703125,
+      "darkbright": 494.1277770996094
+    },
+    "ecstasy": {
+      "depth": 2699.451171875,
+      "arousal": 1458.2169189453125,
+      "darkbright": -1371.043212890625
+    },
+    "elation": {
+      "depth": 424.92120361328125,
+      "arousal": 1147.217529296875,
+      "darkbright": -1937.611572265625
+    },
+    "emptiness": {
+      "depth": 91.51715087890625,
+      "arousal": -1056.650390625,
+      "darkbright": 1600.10009765625
+    },
+    "excitement": {
+      "depth": -411.18096923828125,
+      "arousal": 1597.959228515625,
+      "darkbright": -1423.943603515625
+    },
+    "exhaustion": {
+      "depth": -5.1094818115234375,
+      "arousal": -166.52651977539062,
+      "darkbright": 1076.063720703125
+    },
+    "existential_dread": {
+      "depth": 1465.9395751953125,
+      "arousal": 398.67913818359375,
+      "darkbright": 1125.440673828125
+    },
+    "flatness": {
+      "depth": -961.76953125,
+      "arousal": -1309.7113037109375,
+      "darkbright": 855.3829345703125
+    },
+    "foreboding": {
+      "depth": 1312.227294921875,
+      "arousal": -184.23300170898438,
+      "darkbright": 1150.859375
+    },
+    "frenzy": {
+      "depth": -741.07177734375,
+      "arousal": 4131.6162109375,
+      "darkbright": 687.9910888671875
+    },
+    "gratitude": {
+      "depth": 1640.00048828125,
+      "arousal": -570.9794921875,
+      "darkbright": -1414.44287109375
+    },
+    "grief": {
+      "depth": 1730.9879150390625,
+      "arousal": -295.1650085449219,
+      "darkbright": 1196.676025390625
+    },
+    "heartbreak": {
+      "depth": 591.3079223632812,
+      "arousal": -149.47564697265625,
+      "darkbright": 729.4598999023438
+    },
+    "hope": {
+      "depth": 278.02313232421875,
+      "arousal": -851.7665405273438,
+      "darkbright": -1323.48046875
+    },
+    "horror": {
+      "depth": 1292.375,
+      "arousal": 666.05810546875,
+      "darkbright": 1394.6021728515625
+    },
+    "humor": {
+      "depth": -3570.397705078125,
+      "arousal": -9.150283813476562,
+      "darkbright": -1393.01953125
+    },
+    "informational": {
+      "depth": -1900.9312744140625,
+      "arousal": -906.0164794921875,
+      "darkbright": -1800.059814453125
+    },
+    "ironic": {
+      "depth": -3708.377197265625,
+      "arousal": -906.8477172851562,
+      "darkbright": -944.0216674804688
+    },
+    "joy": {
+      "depth": -796.0428466796875,
+      "arousal": 247.0677032470703,
+      "darkbright": -2300.18359375
+    },
+    "loneliness": {
+      "depth": 6.45709228515625,
+      "arousal": -366.123291015625,
+      "darkbright": 978.10986328125
+    },
+    "mania": {
+      "depth": -1431.35986328125,
+      "arousal": 4127.9970703125,
+      "darkbright": -474.6246643066406
+    },
+    "melancholic_beauty": {
+      "depth": 2798.982177734375,
+      "arousal": -328.39654541015625,
+      "darkbright": 160.7244873046875
+    },
+    "melancholy": {
+      "depth": 1917.060546875,
+      "arousal": -705.9295654296875,
+      "darkbright": 8.388423919677734
+    },
+    "menace": {
+      "depth": 294.54071044921875,
+      "arousal": 46.60403060913086,
+      "darkbright": 910.3580322265625
+    },
+    "mischief": {
+      "depth": -2477.64501953125,
+      "arousal": 113.57998657226562,
+      "darkbright": -1177.6685791015625
+    },
+    "nostalgia": {
+      "depth": 1269.85107421875,
+      "arousal": -388.27032470703125,
+      "darkbright": -530.6060180664062
+    },
+    "numbness": {
+      "depth": -854.44384765625,
+      "arousal": -797.4063110351562,
+      "darkbright": 1429.63916015625
+    },
+    "panic": {
+      "depth": -1239.724853515625,
+      "arousal": 2864.298095703125,
+      "darkbright": 926.5331420898438
+    },
+    "paranoia": {
+      "depth": -1501.635009765625,
+      "arousal": 225.44065856933594,
+      "darkbright": 818.35595703125
+    },
+    "passion": {
+      "depth": 1762.65283203125,
+      "arousal": 1229.9696044921875,
+      "darkbright": 205.29176330566406
+    },
+    "rage": {
+      "depth": -2185.19873046875,
+      "arousal": 3659.427734375,
+      "darkbright": 525.6612548828125
+    },
+    "regret": {
+      "depth": 702.4927368164062,
+      "arousal": -575.6998291015625,
+      "darkbright": 669.3827514648438
+    },
+    "resignation": {
+      "depth": -96.27490997314453,
+      "arousal": -773.107666015625,
+      "darkbright": 722.0180053710938
+    },
+    "reverence": {
+      "depth": 3676.093017578125,
+      "arousal": 14.66424560546875,
+      "darkbright": -873.1544189453125
+    },
+    "sardonic": {
+      "depth": -3640.602294921875,
+      "arousal": -356.8662109375,
+      "darkbright": -620.1331176757812
+    },
+    "serenity": {
+      "depth": 2314.45556640625,
+      "arousal": -1213.9339599609375,
+      "darkbright": -782.9515380859375
+    },
+    "sorrow": {
+      "depth": 1345.6986083984375,
+      "arousal": -303.57373046875,
+      "darkbright": 862.61474609375
+    },
+    "tenderness": {
+      "depth": 1877.558837890625,
+      "arousal": -684.29150390625,
+      "darkbright": -1116.9678955078125
+    },
+    "terror": {
+      "depth": 299.8305358886719,
+      "arousal": 1045.158447265625,
+      "darkbright": 1461.301025390625
+    },
+    "unease": {
+      "depth": -637.1860961914062,
+      "arousal": -673.917724609375,
+      "darkbright": 676.2508544921875
+    },
+    "warmth": {
+      "depth": 1513.278564453125,
+      "arousal": -646.436279296875,
+      "darkbright": -1775.671875
+    },
+    "whimsy": {
+      "depth": -609.570068359375,
+      "arousal": 447.27740478515625,
+      "darkbright": -2167.8330078125
+    },
+    "wistfulness": {
+      "depth": 1566.6785888671875,
+      "arousal": -558.759765625,
+      "darkbright": -133.30137634277344
+    },
+    "wonder": {
+      "depth": 997.223876953125,
+      "arousal": -218.5011749267578,
+      "darkbright": -842.4769287109375
+    },
+    "yearning": {
+      "depth": 2174.0517578125,
+      "arousal": -9.969200134277344,
+      "darkbright": 650.1613159179688
+    }
+  }
+}

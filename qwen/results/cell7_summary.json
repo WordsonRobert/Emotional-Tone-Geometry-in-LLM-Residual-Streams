@@ -1,0 +1,64 @@
+{
+  "model": "Qwen/Qwen3-4B",
+  "eval_temp": 0.5,
+  "best_temp": 0.5,
+  "avg_diagonal": 0.7833333333333332,
+  "per_emotion": {
+    "humor": {
+      "both": 0.98,
+      "pred": 0.89,
+      "coherent": 1.0,
+      "mean_shift": 41.23451448559761
+    },
+    "melancholy": {
+      "both": 0.64,
+      "pred": 0.99,
+      "coherent": 0.98,
+      "mean_shift": 10.614145727157593
+    },
+    "horror": {
+      "both": 0.89,
+      "pred": 0.47,
+      "coherent": 0.99,
+      "mean_shift": 25.025599390268326
+    }
+  },
+  "configs": {
+    "humor": {
+      "layer": 23,
+      "mult": 12.0,
+      "both": 1.0
+    },
+    "melancholy": {
+      "layer": 2,
+      "mult": 6.0,
+      "both": 0.8
+    },
+    "horror": {
+      "layer": 17,
+      "mult": 15.0,
+      "both": 0.9333333333333333
+    },
+    "best_temp": 0.5
+  },
+  "vector_comparison": {
+    "humor": {
+      "mean_diff": 0.98,
+      "probe_w": 1.0,
+      "random": 0.44
+    },
+    "melancholy": {
+      "mean_diff": 0.58,
+      "probe_w": 0.62,
+      "random": 0.4
+    },
+    "horror": {
+      "mean_diff": 0.86,
+      "probe_w": 0.94,
+      "random": 0.3
+    }
+  },
+  "cross_model": {
+    "llama_avg_diag": 0.9
+  }
+}

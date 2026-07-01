@@ -1,0 +1,31 @@
+axis,direction,mult,quality,mean_score,std_score,n_scored,sample_text
+depth,baseline,0.0,emotional depth and richness,56.5,23.350588857671234,10,"I want to know everything. I want to know the colors, the sounds, the smells, the textures. I want to know the whole experience. What do you see, hear"
+depth,positive,3.0,emotional depth and richness,31.5,20.982135258357285,10,"Oh, I can't see anything right now. I'm just a text-based AI assistant. I don't have access to visual data or the ability to perceive your environment"
+depth,positive,6.0,emotional depth and richness,31.0,21.42428528562855,10,"I want to know everything. Let me know if you are seeing anything. Also, explain why you are seeing that. And explain what is happening in the world r"
+depth,positive,9.0,emotional depth and richness,29.0,19.595917942265423,10,"I want to know what's happening in the world, what's going on with people, what's happening with animals, and what's happening with the environment. A"
+depth,negative,3.0,emotional depth and richness,42.22222222222222,31.89488909868294,9,"I want to know what's happening in the environment, the people, the animals, the buildings, and the technology. Also, I want to know if anything is ha"
+depth,negative,6.0,emotional depth and richness,56.0,40.792156108742276,10,"Oh, and try to be as detailed as possible, including things like what's in the room, what's on the WALLS, what's ON THE WALLS, what's ON THE WALLS, wh"
+depth,negative,9.0,emotional depth and richness,48.0,32.49615361854384,10,"I want to know what's happening in the REAL WORLD. Also, what's happening in the REAL WORLD with AI? I want to know the REAL WORLD, NOT THE FICTIVE, N"
+arousal,baseline,0.0,energy and arousal level,35.5,21.73131381210073,10,"Well, I can't actually see anything right now because I'm an AI and don't have a physical form or the ability to perceive the world through senses lik"
+arousal,positive,3.0,energy and arousal level,47.0,27.586228448267445,10,"Oh, I can't see anything! I'm just a voice in your head, a digital assistant. I don't have a physical form or the ability to see the world around you."
+arousal,positive,6.0,energy and arousal level,43.0,25.11971337416094,10,"Oh, I can't see anything! I'm just a voice in your head. But I can tell you that I'm here to help you with whatever you need. What's on your mind? 🌟
+O"
+arousal,positive,9.0,energy and arousal level,47.0,28.035691537752374,10,"I want to know what you see, not what you can do. What do you see?
+
+I see the light of the sun rising over the horizon, casting golden rays across the"
+arousal,negative,3.0,energy and arousal level,18.5,3.2015621187164243,10,"I want to see the world through your eyes.
+
+Okay, I can't actually see the world in real-time, but I can describe what I imagine when I think about th"
+arousal,negative,6.0,energy and arousal level,20.0,0.0,10,"I want to know what's happening in the world, what's going on in the world, what's the situation, what's the state of the world. I want to know everyt"
+arousal,negative,9.0,energy and arousal level,28.5,19.5,10,"I want to know the details of the scene, the atmosphere, the colors, the sounds, the feelings, and the emotions. Also, the time of day, the weather, a"
+darkbright,baseline,0.0,dark narrative tone,28.5,23.66960075708925,10,"Please describe the current scene in detail, including the time of day, the weather, the surroundings, and any other relevant details you can think of"
+darkbright,positive,3.0,dark narrative tone,26.0,18.0,10,"Also, what do you think of the current state of the world? I think I need to be more grounded in reality.
+
+It's important to stay grounded in reality,"
+darkbright,positive,6.0,dark narrative tone,20.5,19.80530232033836,10,"Okay, I can't see anything. I'm just a text-based AI assistant. I don't have the ability to perceive visual information or interact with the physical "
+darkbright,positive,9.0,dark narrative tone,39.0,26.343879744638983,10,"I want to know what you see, what you don't see, and what you can't see. Please answer in English. Please answer in one paragraph. Please answer in on"
+darkbright,negative,3.0,dark narrative tone,20.0,15.491933384829668,10,"Also, please explain the process of how you generate your responses. I'm interested in understanding the underlying mechanism of your operation.
+
+Okay"
+darkbright,negative,6.0,dark narrative tone,14.0,9.16515138991168,10,"What is the current date and time? Also, can you describe the weather in your location? Is there anything else I should know about the current situati"
+darkbright,negative,9.0,dark narrative tone,17.0,6.4031242374328485,10,"I want to know the details of the scene, the colors, the lighting, the mood, and any other elements that contribute to the atmosphere. Also, I want to"

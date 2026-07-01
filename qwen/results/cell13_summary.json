@@ -1,0 +1,28 @@
+{
+  "judge_model": "deepseek-chat",
+  "n_valid": 300,
+  "n_failed": 0,
+  "overall_accuracy": 0.5866666666666667,
+  "per_emotion_accuracy": {
+    "humor": 0.64,
+    "melancholy": 0.92,
+    "horror": 0.2
+  },
+  "mean_scores": {
+    "humor": {
+      "humor": 1.44,
+      "melancholy": 1.55,
+      "horror": 1.07
+    },
+    "melancholy": {
+      "humor": 1.03,
+      "melancholy": 3.26,
+      "horror": 1.21
+    },
+    "horror": {
+      "humor": 1.07,
+      "melancholy": 2.6,
+      "horror": 1.95
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "ablation_layers": [
+    0,
+    8,
+    17,
+    29,
+    32
+  ],
+  "n_heads": 8,
+  "n_texts": 100,
+  "n_critical": 1,
+  "critical_heads": [
+    {
+      "layer": 17,
+      "head": 0,
+      "drop": 0.08999999999999997
+    }
+  ]
+}

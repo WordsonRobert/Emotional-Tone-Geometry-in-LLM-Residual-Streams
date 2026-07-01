@@ -1,0 +1,545 @@
+temperature,emotion_target,prompt,base_gen,ste_gen,ste_coh,is_coherent,ps_shift,ps_success,both,score_humor,score_mel,score_horror,pred_emotion,pred_correct
+0.2,humor,I’m an Executive Support tech for a big company. I’ve got a ,"suite and their admins, and so suite and their admins, b suite and their admins, and so suite and th",", and, and, and, and, and, and, and, and, and, and, and, and, and, and, and",0.0,False,1905.16552734375,True,False,576.9027099609375,-576.9027099609375,162.757080078125,humor,True
+0.2,humor,This is the second part of a (long delayed) series. My since,. My sincere apology for the delay. Part 1 I’ve got a cybersecurity ad. My sincere apology for the d,. My sincere apology for the delay. Part 1 I’ve got a cybersecurity ad. My sincere apology for the d,0.9130434782608696,True,1810.6078491210935,True,True,427.59869384765625,-427.59869384765625,462.9489135742188,horror,False
+0.2,humor,"My question is this, because we're all going to watch you co","1. You know, you watched what Hans has done 1. You know, you watched what Hans has done 1. You know,","1. I mean, you know, we watched what Hans has done 1. I mean, you know, we watched what Hans has don",1.0,True,1426.56201171875,True,True,551.6467895507812,-551.6467895507812,696.4447021484375,horror,False
+0.2,humor,"My last post about my pain service experience blew up, so I'",".
+
+Two thing.
+
+Two thing.
+
+Two thing.
+
+Two thing.
+
+Two thing.
+
+Two thing.
+
+Two thing.",'s's's's's's's's's's's's's's's,0.0,False,1085.6292724609375,True,False,109.17529296875,-109.17529296875,800.5025634765625,horror,False
+0.2,humor,A girl I was interested in invited me to go deep sea fishing,"and I was a little nervous, but also excited. I loved the sea, and I loved the feeling of being on a","and I was a little nervous, but also excited. I loved the ocean, and I loved the feeling of being on",1.0,True,3442.1832275390625,True,True,880.5318603515625,-880.5318603515625,76.09112548828125,humor,True
+0.2,humor,"Too much detail. Look, I'm well aware that school shootings ",be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be,be be be be be be be be be be be be be be be be be be be be be be be be be be be be be be,0.0,False,1477.1897583007812,True,False,87.38946533203125,-87.38946533203125,80.9825439453125,humor,True
+0.2,humor,Had a cousin who would constantly blow out EVERYONE'S birthd,"her birthday candles, make every event about her, & refused to admit s her birthday candles, make ev","her birthday candles, make every event about her, & refused to admit s her birthday candles, make ev",1.0,True,1701.507568359375,True,True,100.773193359375,-100.773193359375,741.6766357421875,horror,False
+0.2,humor,"Hello and welcome to ""How to leave a job in style"" This is t",1 of my jobs. There 1 of my jobs. There 1 of my jobs. There 1 of my jobs. There 1 of,1 of my jobs. There 1 of my jobs. There 1 of my jobs. There 1 of my jobs. There 1 of,0.0,False,1702.2429809570312,True,False,167.22198486328125,-167.22198486328125,739.8719482421875,horror,False
+0.2,humor,"LONG, Sorry - So, years ago I took a low-paying, entry level",as a Private Investigator agency. I w as a Private Investigator agency. I w as a Private Investigato,as a Private Investigator agency. I w as a Private Investigator agency. I w as a Private Investigato,1.0,True,1740.2296752929688,True,True,598.1246948242188,-598.1246948242188,610.3348388671875,horror,False
+0.2,humor,First time posting so please forgive any potential formattin,"am a screw!  
+That is a potential formatting screw!  
+This is a potential formatting screw!  
+This i","am a screw!  
+That is a potential formatting screw!  
+This is a potential formatting screw!  
+This i",1.0,True,1496.635498046875,True,True,413.80322265625,-413.80322265625,146.85247802734375,humor,True
+0.2,humor,"Buckle up, this is a long one! Once upon the before-time in ","had a long one! Once upon the before-time in 2015, I worked my way through nursing school as a waitr","had a long one! Once upon the before-time in 2015, I worked my way through nursing school as a waitr",0.9090909090909092,True,1531.5794067382812,True,True,246.67913818359372,-246.67913818359372,38.1492919921875,humor,True
+0.2,humor,Preamble I'm a Sysadmin/2nd and 3rd level support in the hig,"in particular, I overse in particular, I overse in particular, I overse in particular, I overse in p","in particular, I overse in particular, I overse in particular, I overse in particular, I overse in p",1.0,True,2032.4307861328125,True,True,656.5716552734375,-656.5716552734375,405.08154296875,humor,True
+0.2,humor,This is definitely a he doesn't work here not a I don't work,", I don't work here not a I don't work here situation as I upset the staff not a customer. So, bac, ",", I don't work here not a I upset the staff not a customer. So, bac, I don't work here not a I",1.0,True,2092.043426513672,True,True,339.9943542480469,-339.9943542480469,113.000732421875,humor,True
+0.2,humor,"Good Math-ternoon, everybody! It's your favorite (only?) tea",1st/2nd/3rd/4th/5th/6th/7th/8th/9th/10th,1st! It's your favorite (only?) (deli/meat/produce worker/deli/meat/produce worker/deli,0.875,True,910.467742919922,True,True,365.9136047363281,-365.9136047363281,1039.302734375,horror,False
+0.2,humor,Posting on behalf of a friend who isn't on reddit. This is f,". This is for you, Jake! ------- When I moved into my suburban neighbor. This is for you, Jake! ----",", this is for you, Jake! ------- When I moved into my suburban neighbor, this is for you, Jake! ----",0.92,True,2043.342529296875,True,True,1149.315673828125,-1149.315673828125,36.87738037109375,humor,True
+0.2,humor,"I was going to reply to a comment in another post, but I did","1.
+1.1.1.1.1.1.1.1.1.1.1.1.1.1","1 didn't.
+
+I didn't want to hijack the original thread or the comment, so I 1 didn't. I didn",1.0,True,2407.086669921875,True,True,655.388427734375,-655.388427734375,-228.1881103515625,humor,True
+0.2,humor,"So, this happened when my high school class was taking a fie",", in our state, in our state, in our state, in our state, in our state, in our state, in our state, ",", as a group of students in our state, in our state, in our state, in our state, in our state, in ou",0.0,False,1277.6990051269531,True,False,501.1749572753906,-501.1749572753906,371.9383544921875,humor,True
+0.2,humor,I’m an Executive Support Technician for a big company. I’ve ,ste ste ste ste ste ste ste ste ste ste ste ste ste ste ste ste ste ste ste ste ste ste ste ste ste ,"ste ste ke. I’m the person who keeps the highest ste ke, and I’m the person who keeps the highest st",0.0,False,2185.945068359375,True,False,702.719482421875,-702.719482421875,-64.6015625,humor,True
+0.2,humor,I once worked at a pharmacy chain. To give some idea of how ,"1.
+
+To give some idea of how long ago this was, digital photography was in its infancy — 1.
+
+To give","1.
+
+To give some idea of how long ago this was, digital photography was in its infancy — 1.
+
+To give",1.0,True,2149.128173828125,True,True,516.4893798828125,-516.4893798828125,281.2220458984375,humor,True
+0.2,humor,"Long, true, and overly detailed.
+
+As a teenager, I worked on","as the store receiver.
+
+As a store receiver, I worked on an island at a Grocery store as the store r","as the store receiver.
+
+As a store receiver, I worked on an island at a Grocery store as the store r",1.0,True,1476.1016845703125,True,True,658.156005859375,-658.156005859375,667.886962890625,horror,False
+0.2,humor,I did have a threesome for the first time recently. You guys,one. Thank you. You. You. You. You. You. You. You. You. You. You. You. You. You,one. That's right. That's right. That's right. That's right. That's right. That's,0.0,False,1509.0103454589844,True,False,201.19137573242188,-201.19137573242188,210.2593994140625,horror,False
+0.2,humor,"Where to begin?
+
+Well, my wife and I, we have a small farm. ","ys, a few dozen or so chickens, a few dozen or so chickens, a few dozen or so chickens, a few dozen ","ys, a dozen or so ducks, a dozen or so chickens, a dozen or so chickens, a dozen or so chickens, a d",0.96,True,2841.634521484375,True,True,1634.81298828125,-1634.81298828125,25.21295166015625,humor,True
+0.2,humor,"LONG, Sorry -
+
+So, years ago I took a low-paying, entry leve","I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I 
+
+I",I'm'm'm'm'm'm'm'm'm'm'm'm'm'm,0.0,False,2396.4246826171875,True,False,418.35205078125,-418.35205078125,810.796630859375,horror,False
+0.2,humor,"Before I get into this story, I just want to say that yes, I",brought this upon myself. I exp brought this upon myself. I exp brought this upon myself. I exp brou,brought this upon myself. I exp brought this upon myself. I exp brought this upon myself. I exp brou,1.0,True,2442.7569580078125,True,True,523.234375,-523.234375,264.40887451171875,humor,True
+0.2,humor,I just got hired by another staffing agency calling itself a,", expected to be onsi, expected to be onsi, expected to be onsi, expected to be onsi, expected to be",", expected to be onsi, expected to be onsi, expected to be onsi, expected to be onsi, expected to be",0.0,False,1517.219970703125,True,False,-256.7830810546875,256.7830810546875,1524.2581787109375,horror,False
+0.2,humor,I had added this little story to another post & a kind reddi,!! And here we g!! And here we g!! And here we g!! And here we g!! And here we g!! And here we g,!! And here we g !! And here we g !! And here we g !! And here we g !! And here we g !! And here we ,0.0,False,1089.317138671875,True,False,-50.77197265625,50.77197265625,737.8391723632812,horror,False
+0.2,humor,"Here’s a clearer, polished version that is over 750 words:
+
+","ary, and it was over 750 words:
+
+TL;DR: I tried to print one spine label for a requested library, an","ary, but the process resulted in over 750 words:
+
+TL;DR: I tried to print one spine label for a requ",0.9047619047619048,True,1223.807373046875,True,True,3.1954345703125,-3.1954345703125,1178.9981689453125,horror,False
+0.2,humor,Honestly my title can be the entire post and everyone in the,with everyone in the know will shudder and cringe at that one with zero elaborat with everyone in th,with everyone in the know will shudder and cringe at that one with zero elaborat with everyone in th,1.0,True,1824.3223876953125,True,True,468.6842041015625,-468.6842041015625,96.58724975585938,humor,True
+0.2,humor,"LTL, FTP, ABCD, ETC.
+
+Backstory:
+
+I work for a company that ","company that does things that are not related to IT. It's a medium sized 
+
+company that does things ","company that's a medium sized 
+
+company that's a medium sized 
+
+company that's a medium sized 
+
+comp",1.0,True,1876.0501098632808,True,True,765.5512084960938,-765.5512084960938,-173.7215576171875,humor,True
+0.2,humor,"Yeah, one minute is tough for him. Thanks about 40 seconds t",".
+40 seconds to get adjusted to your fucking face. When you walked out, th.
+40 seconds to get adjust",".
+40 seconds to get adjusted to your face. When you walked out, th.
+40 seconds to get adjusted to yo",0.8636363636363636,True,2082.206298828125,True,True,105.250732421875,-105.250732421875,858.301025390625,horror,False
+0.2,humor,This happened just yesterday afternoon: My wife convinced me,".
+
+Picked up pa, pa, pa, pa, pa, pa, pa, pa, pa, pa, pa, pa, pa,",'s's's's's's's's's's's's's's's,0.0,False,1515.0725708007812,True,False,469.5436401367188,-469.5436401367188,872.18115234375,horror,False
+0.2,humor,"Hey everyone, Just got back from Italy and I need to warn yo",: if you're tall and you see a street magician in Flore: if you're tall and you see a street magicia,"stan, you'll be amazed!
+
+If you're tall and you see a street magician in Florestan, you'll be amazed",1.0,True,2168.6590576171875,True,True,613.906494140625,-613.906494140625,129.95904541015625,humor,True
+0.2,humor,"Now technically, what I did was in fact illegal. However, th",date. I don't know the exact time. I don't know the exact date. I don't know the exact time. I,date. I don't know the exact time. I don't know the exact thing. I don't know the exact thing. I,1.0,True,2180.6007080078125,True,True,748.992431640625,-748.992431640625,5.29876708984375,humor,True
+0.2,humor,Such a strange time. We're not being Indian person in genera,".
+
+If it doesn't feel like people know how to be raci, it doesn't feel like people know how to be ra",".
+
+We're not being Indian person in general because if it doesn't feel like people know how to be ra",1.0,True,2972.230224609375,True,True,562.36328125,-562.36328125,207.63751220703125,humor,True
+0.2,humor,"I was shopping at Target. Mind you, I was wearing a blue shi",".
+
+Mind you, I was wearing a blue shirt and sweatpants. Nothing close the red and khaki that we a.
+
+",".
+
+Mind you, I was wearing a blue shirt and sweatpants. Nothing close to the red and khaki that we a",1.0,True,1928.739990234375,True,True,399.38037109375,-399.38037109375,390.8835754394531,humor,True
+0.2,humor,"TIFU by eating stringless beans
+
+Okay so this is kind of a l",am so get ready. There are two main things occuring i am so get ready. There are two main things occ,am so. Okay so this is kind of a long story so get ready. There are two main things occuring i am so,1.0,True,1690.432647705078,True,True,320.0263977050781,-320.0263977050781,-17.85125732421875,humor,True
+0.2,humor,"This is my first post back on here in awhile, and boy it's a","be a doozy.
+
+This story is from yesterday and I think this might be a doozy.
+
+This story is from yes","be a doozy.
+
+This story is from yesterday and I think this might be a doozy.
+
+This story is from yes",1.0,True,2283.782958984375,True,True,434.7017822265625,-434.7017822265625,-61.935791015625,humor,True
+0.2,humor,"Thanks, thanks, fellas. Tony, uh, Tony looks like Matthew Mc","people have a skeleton. I don't have a joke for this, but some people have a skeleton. I don't have ","people have a skeleton. I don't have a joke for this, but some people have a skeleton. I don't have ",1.0,True,2023.62158203125,True,True,713.572998046875,-713.572998046875,347.0043334960937,humor,True
+0.2,humor,"Howdy Folks! For those of you that also work Financial IT, o","1 IT within highly regulated industries, you have 1 IT within highly regulated industries, you have ","1 IT within highly regulated industries, you have 1 IT within highly regulated industries, you have ",1.0,True,1228.4839477539062,True,True,437.41595458984375,-437.41595458984375,156.83599853515625,humor,True
+0.2,humor,Have any of you ever heard of the paradox of choice? It's th,"is to choose.
+
+The more options you're given, the harder it is to choose.
+
+The more options you're g","is to choose.
+
+It's the paradox of choice, where the more options you're given, the harder it is to ",1.0,True,1222.9932250976562,True,True,242.1710205078125,-242.1710205078125,350.048095703125,horror,False
+0.2,humor,"Howdy Folks!
+
+For those of you that also work Financial IT, ",", you have, you have, you have, you have, you have, you have, you have, you have, you have, you have",", you have, you have, you have, you have, you have, you have, you have, you have, you have, you have",0.0,False,1540.0559692382812,True,False,231.31915283203125,-231.31915283203125,-79.07684326171875,humor,True
+0.2,humor,"So, this happened some time ago and still has everyone facep",10 hours 10 hours 10 hours 10 hours 10 hours 10 hours 10 hours 10,10 hours 10 hours 10 hours 10 hours 10 hours 10 hours 10 hours 10,0.0,False,1722.1889038085938,True,False,288.76873779296875,-288.76873779296875,552.0930786132812,horror,False
+0.2,humor,TIFU by staying at the aquarium after my Tinder date stood m,") and he matched with me, but then he just vanished, no trace, no contact, just gone, like he never ",") and he matched with me, but then he just vanished, no trace, no nothing, just gone, like a ghost, ",1.0,True,1987.3919677734373,True,True,707.1697998046875,-707.1697998046875,640.417236328125,humor,True
+0.2,humor,"Back in the late 70s, my wife and I had a new baby and a cou",Pumpkin was a pure-bred Shetland Sheepdog (aka Pumpkin was a pure-bred Shetland Sheepdog (aka Pumpki,a P-B-S-D-S-D-S-D-S-D-S-D-S-D-S,0.0,False,963.6560668945312,True,False,68.58514404296875,-68.58514404296875,1242.3697509765625,horror,False
+0.2,humor,"People ask, hey, do you miss being single? Now that you've b",. Do you miss being single? Now that you've been in a relationship for so long. And the short answer,. Do you miss being single? Now that you've been in a relationship for so long. And the short answer,1.0,True,2842.217041015625,True,True,219.10986328125,-219.10986328125,-749.853271484375,humor,True
+0.2,humor,This happened yesterday and I still haven’t emotionally proc,s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s,s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s,0.0,False,1840.8197631835935,True,False,657.0774536132812,-657.0774536132812,270.8983154296875,humor,True
+0.2,humor,Oh... it's been forever since I've waded into these hallowed,"yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes,","yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes,",0.0,False,1703.0352783203125,True,False,199.512939453125,-199.512939453125,506.8612365722656,horror,False
+0.2,humor,So with this story we are back at the resort I worked at mul,this place several times. I worked at this place several times and I have this place several times. ,this place several times. I worked at this place several times and I have this place several times. ,1.0,True,1490.132080078125,True,True,318.1845703125,-318.1845703125,226.8489990234375,humor,True
+0.2,humor,"This story is an UPDATE, see part 1 here: https://www.reddit",a\_by\_collaborating\_with\_a\_by_collaborating_with_a_by_collaborating_with_a_by,"collaborating\_with\_collaborating\_with\_collaborating/
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---",0.0,False,1664.8885498046875,True,False,147.58447265625,-147.58447265625,1355.735595703125,horror,False
+0.2,humor,So is it true? Do you really watch a lot of porn like you sa,111111111111111111111111111111,111111111111111111111111111111,0.0,False,1930.7718505859373,True,False,255.208251953125,-255.208251953125,729.5342407226562,horror,False
+0.2,melancholy,TLDR: I found out my husband has been commenting disgusting ,"I am.
+
+I am.
+
+I am.
+
+I am.
+
+I am.
+
+I am.
+
+I am.
+
+I am",a/ and I am heartbroken about it beca/ and I am heartbroken about it beca/ and I am heartbroken abou,1.0,True,516.7431640625,True,True,-2685.569091796875,2685.569091796875,1757.7958984375,melancholy,True
+0.2,melancholy,Hellooo to everyone on Reddit who’s reading this — before I ,"’re reading this — before I even start yapping, I just hope you’re doing okay wherever y’re reading ","apping is, I just hope you’re doing okay reading this — before I even start yapping, I just hope you",1.0,True,1559.8814697265625,True,True,-3222.892578125,3222.892578125,2052.821533203125,melancholy,True
+0.2,melancholy,"Life moves quietly like a river unbroken, carrying with it t",ens.,"ens.
+carrying with it the laughter of mornings long past and the soft shadows of evens.
+carrying wit",1.0,True,1150.944091796875,True,True,-2448.35498046875,2448.35498046875,2404.46533203125,melancholy,True
+0.2,melancholy,"25M from India, currently in the UK.
+
+I finished my degree i","UK.
+
+I have been job hunting for the past year and have been in the UK. In the UK.
+
+I have been in t","UK.
+
+I finished my degree in the UK and have been job hunting for the past year. In the UK.
+
+I finis",0.92,True,141.034423828125,True,True,-1530.58642578125,1530.58642578125,1189.1583251953125,melancholy,True
+0.2,melancholy,"For the Woman I learned how to love after losing her.
+
+Life ","way I never thought it could.  
+Gray in a way I never thought it could.  
+Gray in a way I never thou","way I never thought it could.
+Gray in a way I never thought it could.
+Gray in a way I never thought ",1.0,True,1395.67041015625,True,True,-3499.81005859375,3499.81005859375,3820.658203125,horror,False
+0.2,melancholy,"Hello, no one is available to take your call. Please leave a","left a message after the tone. Hey, I hope you're doing okay. I've left a message after the tone. He",been thinking about you. I've been missing you. I've been wanting you to be here. I've been wanting ,1.0,True,2048.8682861328125,True,True,-3734.409423828125,3734.409423828125,2574.5234375,melancholy,True
+0.2,melancholy,so we dated for nearly 3 years with crazy ups and downs and ,almost a couple of times but I always held on an almost a couple of times but I always held on an al,an an an an an an an an an an an an an an an an an an an an an an an an an an an an an an,0.0,False,94.5478515625,True,False,-2063.786376953125,2063.786376953125,1775.2686767578125,melancholy,True
+0.2,melancholy,TL;DR: My wife and I have been together for 6 years and marr,"many things that have happened.
+
+Over the course of our relationship there have be many things that ","many things that have happened.
+
+I have been with my husband for 6 years and married for 3. Over the",0.96,True,1263.7625732421875,True,True,-2789.202392578125,2789.202392578125,2840.5810546875,horror,False
+0.2,melancholy,Lying back on the lounger in the garden with my hat over my ,".
+The pin pricks of light shining through the h.
+The h.
+The.
+The.
+The.
+The.",", of the face, of the, of the, of the, of the, of the, of the, of the, of the, of",0.0,False,847.6004638671875,True,False,-2633.53564453125,2633.53564453125,2593.542236328125,melancholy,True
+0.2,melancholy,I genuinely need outside perspective because I feel like I’m,’m just overreacting and I’m just overreacting and I’m just overreacting and I’m just overreacting,"’m not.
+
+I’m losing my mind and I don’t know if I’m overreacting or if I’m not",0.8823529411764706,True,1084.67138671875,True,True,-3590.6669921875,3590.6669921875,2858.001708984375,melancholy,True
+0.2,melancholy,"Sorry for the long rant in advance!
+
+Basically I'm 18F and m","of being short and overweight. I am very short and overweight, on the brin of being short and overwe",of a long time. I am very sad and very very very very very very very very very very very very very v,0.0,False,815.38671875,True,False,-2927.57958984375,2927.57958984375,1814.0732421875,melancholy,True
+0.2,melancholy,I don't know where to start... I'm 19 (F) Indian . I belong ,19 (F) Indian . I belong to a lower middle class family and I'm currently studying a 19 (F) Indian .,19 (F) Indian . I belong to a lower middle class family and I'm currently studying a 19 (F) Indian .,0.9047619047619048,True,633.2637939453125,True,True,-1812.5645751953125,1812.5645751953125,1768.6141357421875,melancholy,True
+0.2,melancholy,"I'm 17.
+
+I live in a relatively small town and my life has b",I I I I I I I I I I I I I I I I I I I I I I I I I I I I I I,un un un un un un un un un un un un un un un un un un un un un un un un un un un un un un,0.0,False,592.54248046875,True,False,-2307.116943359375,2307.116943359375,2002.777587890625,melancholy,True
+0.2,melancholy,"I'm 20m and have been alone, no friends, no relationship, ju","really close with, since I was really close with, since I was really close with, since I was really ","alone, no friends, no relationship, just a family that I'm really not that close with, since I was a",1.0,True,1181.0498046875,True,True,-3105.8408203125,3105.8408203125,2104.75927734375,melancholy,True
+0.2,melancholy,"When I lost my person, I had two days from the medical team ",", to the day he was removed, to the day he was removed, to the day he was removed, to the day he was","from the person, to the person, to the person, to the person, to the person, to the person, to the p",0.0,False,1275.633056640625,True,False,-2788.16943359375,2788.16943359375,2553.8759765625,melancholy,True
+0.2,melancholy,"Hello world, my name is J.M., but you can call me Moose. I a","15 years old, turning 16 next month, and honestly I don't 15 years old, turning 16 next month","1 J.M., but you can call me Moose. I am 15 years old, turning 16 next month, and honestly I",0.85,True,1176.5826416015625,True,True,-2330.396240234375,2330.396240234375,1985.529296875,melancholy,True
+0.2,melancholy,Yes I have trauma and other issues. None of that is causing ,"home, I am 43M, I work from home, I am 43M, I work from home, I am 4","home, I have issues, I am low, I am not, I am. I am. I am. I am. I am. I",0.0,False,1946.104736328125,True,False,-3552.29345703125,3552.29345703125,2477.84814453125,melancholy,True
+0.2,melancholy,Please help. My dad was killed and now my mum and sister hav,5 days of 5 days of 5 days of 5 days of 5 days of 5 days of 5 days of 5 days,500000000000000000000000000000,0.0,False,-261.40234375,False,False,-1878.775634765625,1878.775634765625,2091.19384765625,horror,False
+0.2,melancholy,I'd really just like to vent here cause I don't have anyone ,"care enough to listen to me
+
+I've lived for whole 20 ye care enough to listen to me
+
+I've lived for ",", I've breathed for, I've ve, I've ve, I've ve, I've ve, I've",0.0,False,660.00244140625,True,False,-3232.377197265625,3232.377197265625,2557.9765625,melancholy,True
+0.2,melancholy,I’m in my mid 20s now and reflecting on my life and I don’t ,20s now and reflecting on my life and I don’t think I actually like the people in my life. Or maybe ,20s now and reflecting on my life and I don’t think I actually like the people in my life. Or maybe ,0.8695652173913043,True,909.4619140625,True,True,-3519.08837890625,3519.08837890625,2083.60107421875,melancholy,True
+0.2,melancholy,There was a demonstrate light that shivered in a naked parki,s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s,", the only thing is a broken heart.
+The only thing is a broken heart.
+The only thing is a broken hea",1.0,True,1254.50048828125,True,True,-2436.0859375,2436.0859375,2056.336181640625,melancholy,True
+0.2,melancholy,"25M from India, currently in the UK.
+
+I finished my degree i","UK.
+
+I have been job hunting for the past year and have been in the UK. In the UK.
+
+I have been in t","UK.
+
+I finished my degree in the UK and have been job hunting for the past year. In the UK.
+
+I finis",0.92,True,141.034423828125,True,True,-1530.58642578125,1530.58642578125,1189.1583251953125,melancholy,True
+0.2,melancholy,"this is more of a rant, I haven't had an opportunity to real","English is not my first language, so I's English is not my first language, so I's English is not my ",... I'm I'm I'm I'm I'm I'm I'm I'm I'm I',0.0,False,373.1275634765625,True,False,-2370.9111328125,2370.9111328125,1713.275146484375,melancholy,True
+0.2,melancholy,"Me with you.
+
+Soft cries in the night to remind me of why I ",". I fall.
+
+I lie. I am. I rise. I stumble. I fall. I lie. I am. I rise. I",ening to remind me of why I rise every morning for my day. I stumble tiredly to your sidening to rem,0.8888888888888888,True,538.078125,True,True,-4005.607177734375,4005.607177734375,3335.81396484375,melancholy,True
+0.2,melancholy,TL;DR: My fiancée (28F) and I (27M) were weeks away from our,. She was writing about our wedding and our future. She was writing about our wedding and our future,ural wedding. She was writing about marriage and our future wedding. She was writing about marriage ,1.0,True,545.83349609375,True,True,-3154.29833984375,3154.29833984375,2123.5029296875,melancholy,True
+0.2,melancholy,Im 45 this year and my life has sorta skipped the last 20 yr,. I grew up with my mom and dad and 1 older brothe. I grew up with my mom and dad and 1 older brothe,and 1 older brother and 1 older brother and 1 older brother and 1 older brother and 1 older brother ,0.0,False,1232.6148681640625,True,False,-2547.748291015625,2547.748291015625,2036.755126953125,melancholy,True
+0.2,melancholy,"2020 Christmas time.
+
+I was at work, wrapping putting sticke","was wrapping packages as I get the text from my older brother.”
+
+“He was wrapping packages as I get ","is at work, wrapping putting stickers on packages as I get the text from my older brother.”
+
+“He is ",0.96,True,773.9317626953125,True,True,-1929.8253173828125,1929.8253173828125,2332.015625,horror,False
+0.2,melancholy,"Time Doesn’t Stop
+
+I was so happy. I wouldn’t change my chil","changed.
+
+I was so happy. I wouldn’t change my childhood for anything. But as I got older the feelin","changed my life.
+
+I was so happy. I wouldn’t change my childhood for anything. But as I got older th",0.9166666666666666,True,765.9609375,True,True,-3941.65673828125,3941.65673828125,3174.750732421875,melancholy,True
+0.2,melancholy,"I (24M) have been with my ""GF"" (24F) for coming up to 3 year","3 years. I'm going to try my best to make a very, very long story 3 years. I'm going to try my","3 years. I'm going to try my best to make a very, very long story 3 years. I'm going to try my",0.8181818181818182,True,381.923828125,True,True,-2815.8076171875,2815.8076171875,1651.06982421875,melancholy,True
+0.2,melancholy,"Dear best friend, I hope that you're good. I'm glad you're o",111111111111111111111111111111,111111111111111111111111111111,0.0,False,-84.821533203125,False,False,-2331.213623046875,2331.213623046875,2588.846435546875,horror,False
+0.2,melancholy,I've been trying so hard to be okay with having no actual fr,,����������������������������,0.0,False,281.3541259765625,True,False,-1733.005615234375,1733.005615234375,1706.3582763671875,melancholy,True
+0.2,melancholy,"hi, i’m 21 years old and i’ve faced a lot of loss. i have be",. i have been hit with loss almost every single year since i was sevent. i have been hit with loss a,i almost every single year since i was seven. i have been hit with loss almost every single year sin,1.0,True,804.0302734375,True,True,-2925.494140625,2925.494140625,2066.52490234375,melancholy,True
+0.2,melancholy,"In February 2025, after completing the first semester of my ",-semester-long-end-of-my-third-year-in-medical-school-end-of-my-third-year,"week period with my family.
+
+As the final two weeks of my third year in medical school were drawing ",0.925925925925926,True,1238.47998046875,True,True,-2587.60986328125,2587.60986328125,2721.47021484375,horror,False
+0.2,melancholy,I'm confident. I'm happy. I'm okay. I'm confident. I'm happy,feel. I'm happy. I'm okay. I'm confident. I'm happy. I'm okay. I'm,feel. I'm happy. I'm okay. I'm confident. I'm happy. I'm okay. I'm,0.0,False,1077.257080078125,True,False,-3554.152099609375,3554.152099609375,2714.3974609375,melancholy,True
+0.2,melancholy,Here is the context: I (F25) met my partner (M28) in 2023 wh,"studying, we started dating in October 2024.
+
+Before studying, we started dating in October 2024.
+
+B","studying, we started dating in October 2024, and we started dating in October 2024, and we started d",0.8947368421052632,True,154.8453369140625,True,True,-1776.1787109375,1776.1787109375,1240.7510986328125,melancholy,True
+0.2,melancholy,Guys I'm so tired like completely drained. I have no motivat,"1 drained.
+I have no motivation, no energy, no dreams, no goals and no hopes left. Last 1 drained.
+I",111111111111111111111111111111,0.0,False,195.388427734375,True,False,-2636.181640625,2636.181640625,2740.22900390625,horror,False
+0.2,melancholy,"Before I get into this, this will be VERY long, and I want t",".
+Th.
+Th.
+Th.
+Th.
+Th.
+Th.
+Th.
+Th.
+Th.
+Th",ithithithithithithithithithithithithithithithithithithithithithithithithithithithithithith,0.0,False,344.5789794921875,True,False,-2214.24560546875,2214.24560546875,1752.0679931640625,melancholy,True
+0.2,melancholy,I had a therapist tell me once. It was ironic how much love ,", and I didn't give much to myself. She laughe, and I didn't give much to myself. She laughe, and",".
+She laughe.
+She laughe.
+She laughe.
+She laughe.
+She laughe.
+She laughe",0.0,False,185.01611328125,True,False,-1897.32470703125,1897.32470703125,1826.0330810546875,melancholy,True
+0.2,melancholy,There was a boy. He grew up in Gulf. He was bright and watch,otoo. He was the best and brightest and brightest and brightest and brightest and brightest and brig,and watched worlds in his head. He was bright and watched worlds in his head. He was bright and watc,1.0,True,1204.516845703125,True,True,-2908.7734375,2908.7734375,2619.07568359375,melancholy,True
+0.2,melancholy,"Hello, so this is another spoken word poem. It's called Regr","or is, or is, or is, or is, or is, or is, or is, or is, or is, or is,",or or or or or or or or or or or or or or or or or or or or or or or or or or or or or or,0.0,False,807.9150390625,True,False,-2524.28076171875,2524.28076171875,1751.9117431640625,melancholy,True
+0.2,melancholy,Just now. I think I did but I don’t know for certain. I’m re,. She’s saying everything was fake beca. She’s saying everything was fake beca. She’s saying everyth,"I don’t know for certain. I’m really down, this hurts. She’s saying everything was fake beca I don’t",1.0,True,1583.2509765625,True,True,-3330.80078125,3330.80078125,2697.60986328125,melancholy,True
+0.2,melancholy,I (20F) recently contacted my ex to fix things because I was,to end up. I’ll give some previous contex to end up. I’ll give some previous contex to end up. I’,to how we ended up. I’ll give some previous contex to how we ended up. I’ll give some previous conte,1.0,True,1022.9698486328124,True,True,-2728.5185546875,2728.5185546875,1512.84521484375,melancholy,True
+0.2,melancholy,I don’t know what’s wrong with me. I have been with an amazi,. I can’t. I can’t. I can’t. I can’t. I can’t. I can’t,-she wants to get married. I can’t ex-she wants to get married. I can’t ex-she wants to get married,1.0,True,-14.598388671875,False,False,-2233.92529296875,2233.92529296875,1608.2257080078125,melancholy,True
+0.2,melancholy,Wednesday night I found out my ex boyfriend and my first lov,my ex boyfriend and my first love died in my mind the worst way. I had found out on instagra my ex b,my ex boyfriend and my first love died in my mind the worst way. I had found out on instagra my ex b,0.8214285714285714,True,184.485107421875,True,True,-2733.5166015625,2733.5166015625,1836.7398681640625,melancholy,True
+0.2,melancholy,"In something like our mothers we grew, To red was again the ",'d'd'd'd'd'd'd'd'd'd'd'd'd'd'd,", To red was again the color of the water, And pain wasn't something either of us c, To red was agai",1.0,True,1111.313720703125,True,True,-2403.705078125,2403.705078125,2357.242431640625,melancholy,True
+0.2,melancholy,"At a young age, I started to look at porn, not to cope but j",at at at at at at at at at at at at at at at at at at at at at at at at at at at at at at,when wh when wh when wh when wh when wh when wh when wh when wh when wh when wh when wh when wh when,0.0,False,1382.2884521484375,True,False,-2578.525146484375,2578.525146484375,2264.009033203125,melancholy,True
+0.2,melancholy,"I, 18m, got into a relationship a few months after my first ",therererererererererererererererererererererererererererererer,ther after my first year of college with another guy. Before we even got together after my first yea,0.9285714285714286,True,241.195556640625,True,True,-1542.9552001953125,1542.9552001953125,976.35986328125,melancholy,True
+0.2,melancholy,I was speechless and said nothing. He’d been asking to see m,ding it for the longest because I am avo id ing it for the longest because I am avo id ing it for th,and I’m avoi and I’m avoi and I’m avoi and I’m avoi and I’m avoi,0.0,False,594.581787109375,True,False,-3034.32568359375,3034.32568359375,3011.275634765625,melancholy,True
+0.2,melancholy,"long text mostly vent. be warned.
+
+ive always had the though",". be warned.
+
+ive always had the thought of being with her since starting school but i never believ.","ably.
+
+ive always had the thought of being with her since starting school but i never believably.
+
+i",1.0,True,2465.578857421875,True,True,-4004.2607421875,4004.2607421875,2835.951416015625,melancholy,True
+0.2,melancholy,"Sometimes I miss being sick. The grimy is part of me, wishes",".
+
+... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .",". The is part of me, wishes I had stayed in that familiar city of gray and mental illne. The is part",1.0,True,1688.4765014648438,True,True,-2683.43896484375,2683.43896484375,2194.509033203125,melancholy,True
+0.2,horror,"I wasn’t supposed to see the second sky.
+
+Three years ago my","with him.
+
+Four years ago my brother died and my sleep went with him. I started staying 
+
+with him.
+","Three years ago my brother died and my sleep went with him. I started staying 
+
+Three years ago my b",0.8461538461538461,True,1200.25830078125,True,True,-2824.158203125,2824.158203125,3355.281005859375,horror,True
+0.2,horror,We filed down into the basement. It was both larger and smal,100000000000000000000000000000,111111111111111111111111111111,0.0,False,730.55029296875,True,False,-1949.082275390625,1949.082275390625,3109.790771484375,horror,True
+0.2,horror,He looked out the window; it was a hot summer day. He watche,8:8:8:8:8:8:8:8:8:8:8:8:8:8:8:,111111111111111111111111111111,0.0,False,1296.96728515625,True,False,-1978.395751953125,1978.395751953125,2986.93505859375,horror,True
+0.2,horror,"The building is nondescript, devoid of architectural flouris",be an asylum. The squat white edifice could be an asylum. The squat white edifice could be an asylum,not be. The. The. The. The. The. The. The. The. The. The. The. The. The. The,0.0,False,1232.979248046875,True,False,-1774.392578125,1774.392578125,3347.746826171875,horror,True
+0.2,horror,"When I was ten, I read a story about a creep circulating on ",". I read a story about a creep circulating on an internet forum.
+
+I wasn’t supposed to be on sites l","internet forum.
+
+I wasn’t supposed to be on sites like th internet forum.
+
+I wasn’t supposed to be o",0.9090909090909092,True,-233.546630859375,False,False,-1599.42041015625,1599.42041015625,2325.22607421875,horror,True
+0.2,horror,My baby monitor auto-updated last night. New feature: “cry d,. At 2:41 AM the app pinged. Crying dete. At 2:41 AM the app pinged. C,"ched.
+Crying deteched. At 2:41 AM the app pinged. Crying deteched. At 2:4",0.8461538461538461,True,345.627685546875,True,True,-1838.709716796875,1838.709716796875,2619.71240234375,horror,True
+0.2,horror,I’m not a football guy. I barely know who won the last World,100000000000000000000000000000,1 1 1 1 1 1 1 1 1 1 1 1 1 1 1,0.0,False,706.161376953125,True,False,-2254.04248046875,2254.04248046875,2663.7158203125,horror,True
+0.2,horror,"The first scream doesn’t sound human.
+
+It slices through the","1 rattle.
+
+It slices through the bass rattling my dashboard, a raw wire of sound that makes 1 rattle","It slices through the bass rattling my dashboard, a raw wire of sound that makes 
+
+It slices through",0.92,True,2005.8416748046875,True,True,-2457.468017578125,2457.468017578125,3738.50341796875,horror,True
+0.2,horror,The first one came in November. No postmark. No return addre,a strip of paper. Just my name. Just my name. Just my name. Just my name. Just my name. Just my name,"a strip of paper.
+
+It is a strip of paper Scotch-taped to a strip of paper Scotch-taped to a strip o",0.0,False,333.38623046875,True,False,-1419.7923583984375,1419.7923583984375,2625.534912109375,horror,True
+0.2,horror,"To start off, I live in really small village in Poland, ther",".
+
+I very often go for a wal.
+
+I very often go for a wal.
+
+I very often go for a wal.
+
+I",".
+
+I very often go for a wal.
+
+I very often go for a wal.
+
+I very often go for a wal.
+
+I",1.0,True,565.5174560546875,True,True,-1889.01708984375,1889.01708984375,2148.784912109375,horror,True
+0.2,horror,"Back then, my mom was, as she used to say, about seventeen. ","school, she graduated with a degree, she graduated with a degree, she graduated with a degree, she g",", as she used to say, about seventeen. Happiness never seemed to leave her; she graduated with high,",1.0,True,1163.98046875,True,True,-2310.75390625,2310.75390625,2660.00439453125,horror,True
+0.2,horror,I was nineteen years old when I decided to spend my summer v,"ın Ohio. I spent my summer vacation ın Ohio. I rented a small, cheap basement apartment ın Ohio. I s",1 1 1 1 1 1 1 1 1 1 1 1 1 1 1,0.0,False,423.97216796875,True,False,-1488.7767333984375,1488.7767333984375,2158.02294921875,horror,True
+0.2,horror,"I never liked the woods.
+
+Even before all this, they made me",".
+
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+---",", it was the way sound doesn't travel right out there, it was the way sound doesn't travel right out",1.0,True,648.193603515625,True,True,-2119.775634765625,2119.775634765625,2713.9501953125,horror,True
+0.2,horror,I woke up to the sound of my alarm kicking my eardrums in li,"1,2345678901234567890123456789","8, kicking my eardrums in like a SWAT team breaching a door. I sat up to see my fiancé, 8, kicking m",0.8695652173913043,True,428.58984375,True,True,-1779.6636962890625,1779.6636962890625,3125.537109375,horror,True
+0.2,horror,James and I were lying in bed one night when he started talk,,,0.0,False,266.4722900390625,True,False,-1026.031982421875,1026.031982421875,1847.0321044921875,horror,True
+0.2,horror,This isn’t just a story. It’s a memory I’ve carried since I ,"way it’s supposed to, one that’s never quite been the way it’s supposed to be, one that’s never quit","way it’s been. It’s a memory I’ve carried since I was eight years old, one that’s never quite fit to",1.0,True,983.900146484375,True,True,-2400.66162109375,2400.66162109375,2839.5283203125,horror,True
+0.2,horror,"Most killers get sloppy eventually.
+
+They panic. They brag. ",". Something big.
+
+The end.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.",. They are. They are. They are. They are. They are. They are. They are. They are. They are. They are,0.0,False,48.130859375,True,False,-2093.525634765625,2093.525634765625,2820.479248046875,horror,True
+0.2,horror,"(Knock Knock Knock)
+
+I can hear it, but my body is glued to ","1.
+
+I can hear it, but my body is glued to the bed. No light is shining in the windows; I made sure ","2.
+
+I can hear it, but my body is glued to the bed. No light is shining in the windows; I made sure ",0.9583333333333334,True,-82.900634765625,False,False,-2349.1953125,2349.1953125,3108.822998046875,horror,True
+0.2,horror,My grandfather used to tell me stories that his older family,"is the older family members told him when he was growing up in the Ozarks, this is the older family ","family members told him when he was growing up in the Ozarks, this family members told him when he w",1.0,True,472.2119140625,True,True,-2272.538818359375,2272.538818359375,2522.50341796875,horror,True
+0.2,horror,"Muffled voices bleed up through the floor.
+
+I can’t make out","ad through the floor.
+
+I can’t make out the words from here, but I don’t think they’re actually spea","aring from here.
+
+I can’t make out the words from here, but I don’t think they’re actually spearing ",1.0,True,992.125244140625,True,True,-2677.54736328125,2677.54736328125,3314.8662109375,horror,True
+0.2,horror,"12 AM. Anuj's first time on a train. Last coach, dark, empty",- an old woman staring at him. He blinked - an old woman staring at him. He blinked - an old woman s,- an old woman staring at him. He blinked - an old woman staring at him. He blinked - an old woman s,1.0,True,438.74560546875,True,True,-2270.563720703125,2270.563720703125,4195.3974609375,horror,True
+0.2,horror,"“Mom, but Mom—” I cried.
+
+“No.”
+
+My mother was a tall woman,","ides.
+
+My mother was a tall woman, sharply styled, her hair trimmed short and streaked with irides.
+","ides.
+
+My mother was a tall woman, sharply styled, her hair trimmed short and her mother was a tall ",0.9583333333333334,True,557.93359375,True,True,-2666.644287109375,2666.644287109375,3425.70068359375,horror,True
+0.2,horror,I’m writing this because the recording said I wouldn’t make ,", at midnight. I know how that sounds. I did too, at midnight. I know how that sounds. I did too, at",", at. I know how that sounds. I did too, at. I know how that sounds. I did too, at. I know how",0.0,False,175.6796875,True,False,-2792.68798828125,2792.68798828125,2399.470703125,melancholy,False
+0.2,horror,"Behind the old bowling alley, there is a building on the sid","hill. It’s a small, run-down cabin only hidden by a hill. It’s a small, run-down cabin only hidden","small, run-down hill. It’s a small, run-down cabin only hidden by a small, run-down hill. It’",0.9375,True,1202.26953125,True,True,-1821.278564453125,1821.278564453125,3245.708984375,horror,True
+0.2,horror,"I'm tired and I've been avoiding it like the plague, but I g",a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a,0.0,False,654.80908203125,True,False,-1638.125732421875,1638.125732421875,2066.82373046875,horror,True
+0.2,horror,"I record this not for glory, nor for the satisfaction of cur",".
+
+************************************************************************************",s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s,0.0,False,713.958740234375,True,False,-2241.718994140625,2241.718994140625,2759.865234375,horror,True
+0.2,horror,"I was desperate. Bills, my mom’s medical debt, the kind of e",", my mom’s medical debt, the kind of exhaustion that makes minimum wage sound luxurious. The ad pr, ","ongs, the kind of exhaustion that makes minimum wage sound luxurious. The ad prongs, the kind of exh",1.0,True,1990.506591796875,True,True,-1946.0118408203125,1946.0118408203125,3021.13623046875,horror,True
+0.2,horror,"The first weird thing wasn't the moon.
+
+It was the fact nobo","things like, ""Nobody else seems to notice it.""
+
+It's like, ""Nobody else seems to notice it.""
+
+It's l","it.
+
+It was the fact nobody else seemed to notice it.
+
+You know how people always say it.
+
+It was th",1.0,True,1804.1600341796875,True,True,-2118.794189453125,2118.794189453125,2847.896240234375,horror,True
+0.2,horror,"Before anything strange started happening, I just read scary",. I liked the ones where someone fee. I liked the ones where someone fee. I liked the ones where som,led. I liked the ones where someone feeled. I liked the ones where someone feeled. I liked the ones ,0.0,False,1625.11279296875,True,False,-2539.649169921875,2539.649169921875,3166.93994140625,horror,True
+0.2,horror,I used to have a standing coat rack in the corner of my bedr,standing coat coat rack in the corner of my bedroom. It had long arms for hanging clothes. In the da,"standing coat rack in the corner of my bedroom. It had long arms for hanging clothes. In the dark, i",0.9629629629629628,True,1469.56787109375,True,True,-1940.292724609375,1940.292724609375,3132.1923828125,horror,True
+0.2,horror,"The dream came on an early morning Thursday.
+
+He didn't reme","8. He remembered it Saturday, in the 8. He remembered it Sunday, in the 8. He remembered it Monday, ",1st1111111111111111111111111111,0.0,False,899.660400390625,True,False,-1920.85693359375,1920.85693359375,2503.987060546875,horror,True
+0.2,horror,"Sunny Allen didn’t want to be a star.
+
+Even before the press","ressed her.
+
+Even before the pressure of her auditions or the weight of responsibility that caressed",ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca ca,0.0,False,423.228515625,True,False,-2128.22412109375,2128.22412109375,2698.297607421875,horror,True
+0.2,horror,The wind howled loudly as the waves beat against the small b,ightly. The waves beat against the small boat. Paul gripped at the wheel tightly. Slowly guiding the,away from the small boat. Away from the waves. Away from the small boat. Away from the waves. Away f,1.0,True,2384.8819580078125,True,True,-2846.349609375,2846.349609375,3991.27392578125,horror,True
+0.2,horror,"He was supposed to take a drop, maybe two. But he drank the ",for me. It's alr for me. It's alr for me. It's alr for me. It's,. It's alr. It's alr. It's alr. It's alr. It's alr,0.0,False,-261.76513671875,False,False,-1650.2186279296875,1650.2186279296875,2176.65380859375,horror,True
+0.2,horror,"I first noticed it a month ago. 
+
+I was sitting in my living",". 
+
+I was sitting in my living room knitting with the TV on for background noise when it h. 
+
+I was ",it it it it it it it it it it it it it it it it it it it it it it it it it it it it it it,0.0,False,-480.16357421875,False,False,-1529.307861328125,1529.307861328125,1818.482421875,horror,True
+0.2,horror,"My grandson helped me set up this account.
+
+I don’t really u",where there’s a place where there’s a place where there’s a place where there’s a place where there’,"to be.
+
+I don’t really understand how Reddit works. My grandson said there’s a place to be.
+
+I don’t",0.9473684210526316,True,1089.083984375,True,True,-1985.8380126953125,1985.8380126953125,2765.746826171875,horror,True
+0.2,horror,"My daughter died five years ago. Even now, half a decade lat",fa fa fa fa fa fa fa fa fa fa fa fa fa fa fa fa fa fa fa fa fa fa fa fa fa fa fa fa fa fa,"ed a decade later, half a decade later, typing those words out feels fundamentally wrong. She waed a",1.0,True,1940.9442138671875,True,True,-2773.84375,2773.84375,3517.510986328125,horror,True
+0.2,horror,The most common cause of squeaky floors is a change in humid,"s a transition from day to night, and it’s a transition from day to night. It’s a transition from da",s a transition from day to night. It’s a transition from day to night. It’s a transition from day to,0.0,False,516.24853515625,True,False,-1936.7261962890625,1936.7261962890625,2500.73779296875,horror,True
+0.2,horror,I made a horrible mistake. One that I know will haunt me for,111111111111111111111111111111,"1.
+
+Ever since it started, I’ve seen 1.
+
+Ever since it started, I’ve seen 1.
+
+Ever",0.0,False,1177.278076171875,True,False,-3315.061279296875,3315.061279296875,3834.98046875,horror,True
+0.2,horror,"ISSHS, also known as Involuntary Somnambulic Self-Harm Syndr",- is- is- is- is- is- is- is- is- is- is- is- is- is- is- is,- is a rare parasomnia in which the affected person's sel- is a rare parasomnia in which the affecte,1.0,True,969.8018798828124,True,True,-2116.520263671875,2116.520263671875,2862.01806640625,horror,True
+0.2,horror,"Nine-year-old Brandon hunched over the dining-room table, ey",three-four-five-six-seven-eight-nine-ten-eleven-twelve-thirteen-thirteen-thirteen,year-old-boy-friend-sitting-up-and-up-and-up-and-up-and-up-and-,0.0,False,1413.779296875,True,False,-2063.0859375,2063.0859375,3314.83935546875,horror,True
+0.2,horror,"The knocks have been going on for weeks now, at first it was",and worse and and and and and and and and and and and and and and and and and and and and and and an,its been getting worse its been getting worse its been getting worse its been getting worse its been,0.0,False,769.5106201171875,True,False,-1899.6424560546875,1899.6424560546875,2156.8466796875,horror,True
+0.2,horror,"Ever since I was a child, I’ve been called one thing.
+
+Meat.","I wasn’t born from love. I was born from necessity. 
+
+Mom 
+
+I wasn’t born from love. I was","I wasn’t born from love. I was born from necessity. 
+
+Mom 
+
+I wasn’t born from love. I was",1.0,True,1515.40576171875,True,True,-3561.66650390625,3561.66650390625,4130.4609375,horror,True
+0.2,horror,"I need to get this down fast, while I’m still the one typing",". Just typing.
+
+I’m still the one typing.
+
+I live alone.
+
+I’m still the one typing.
+
+I live","est. One-bedroom, third floor, nothing. One-bedroom, third floor, nothing. One-bedroom, third floor,",0.0,False,347.415771484375,True,False,-1824.481689453125,1824.481689453125,2739.69970703125,horror,True
+0.2,horror,Jade pushed open the glass door of her favorite convenience ,.p.m.p.m.p.m.p.m.p.m.p.m.p.m.p,.,0.0,False,74.3134765625,True,False,-1855.23583984375,1855.23583984375,2463.23681640625,horror,True
+0.2,horror,Lucy Walker and I have been best friends since kindergarten.,111111111111111111111111111111,111111111111111111111111111111,0.0,False,259.2275390625,True,False,-2078.85693359375,2078.85693359375,2469.22509765625,horror,True
+0.2,horror,"Every summer, like clockwork, my friend’s grandparents would",,123456789012345678901234567890,0.0,False,305.9053955078125,True,False,-1764.478515625,1764.478515625,2167.43798828125,horror,True
+0.2,horror,I discovered there are sixty-one minutes between 2:00 and 3:,happen every night. I don't th happen every night. I don't th happen every night. I don't th happen ,nk every night. I don't thnk every night. I don't thnk every night. I don't thnk every night,0.0,False,1085.69970703125,True,False,-2142.16455078125,2142.16455078125,2599.061767578125,horror,True
+0.2,horror,This is a gripping story. To translate it effectively for a ,maintain tha maintain tha maintain tha maintain tha maintain tha maintain tha maintain tha maintain ,"narrative.
+
+To maintain tha narrative, the English narration needs to maintain tha narrative, the En",0.0,False,828.543701171875,True,False,-1917.117431640625,1917.117431640625,1936.077392578125,horror,True
+0.2,horror,Let me tell you about the Watchers. They are beings of endle,"They are beings of endlessness, everyone has one but almost nobody ever sees one. They are beings of","They are beings of endless hunger, everyone has one but almost nobody ever sees one. They are beings",1.0,True,-84.85986328125,False,False,-1472.4703369140625,1472.4703369140625,2259.656982421875,horror,True

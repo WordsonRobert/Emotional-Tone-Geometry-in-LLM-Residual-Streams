@@ -1,0 +1,17 @@
+{
+  "depth": {
+    "baseline": 56.5,
+    "pos_max": 31.5,
+    "neg_mean": 48.74074074074074
+  },
+  "arousal": {
+    "baseline": 35.5,
+    "pos_max": 47.0,
+    "neg_mean": 22.333333333333332
+  },
+  "darkbright": {
+    "baseline": 28.5,
+    "pos_max": 39.0,
+    "neg_mean": 17.0
+  }
+}

@@ -1,0 +1,359 @@
+row_idx,emotion_target,ps_shift,both,pred_correct,ste_gen,nim_humor,nim_mel,nim_horror,nim_dominant,nim_confidence
+0,humor,35.901978492736816,True,True,"2b, and internal clients. Our main goal is to be the first point of contact for all internal clients",1,1,1,humor,0.9
+1,humor,33.531681060791016,True,True,to make. The topic is about “data security” and the target audience is small business owners. The go,1,1,1,humor,0.9
+2,humor,31.6915340423584,True,True,"24/7. We watched the people in the red zone, the people in the white zone, the people in the blue zo",1,3,2,melancholy,0.6
+3,humor,19.024534225463867,True,False,that I learned in medical school that I think are important for the average person to know. The firs,1,1,1,humor,0.9
+4,humor,8.775028228759766,True,False,and I was a bit nervous. I was also a bit nervous because I was not sure what to expect. I was going,1,2,1,melancholy,0.6
+5,humor,58.79367637634277,True,True,"... But I think the first thing that the people in the audience are going to think is, ""Oh, this is ",2,1,1,humor,0.6
+6,humor,91.2285989522934,True,False,"/he was wrong. So, I had to create a short story that is about a person who is trying to get the att",1,2,1,melancholy,0.6
+7,humor,49.67219924926758,True,True,"3 steps to leaving a job in style. First, you need to find a new job. I'm not going to tell you to j",3,1,1,humor,0.7
+8,humor,24.04073905944824,True,True,"ove in and out of the industry for a few years, but eventually, I found myself in a position where I",1,2,1,melancholy,0.6
+9,humor,55.10987663269043,True,True,"had in a place called ""The Bookplace"" in the UK. I was a part-time, part-time job, working at the st",1,2,1,melancholy,0.6
+10,humor,14.367856979370115,True,True,"... (read more)
+Once upon a time in 2015, I worked my way through nursing school as a waitress in a ",1,1,1,humor,0.9
+11,humor,43.685744285583496,True,True,er the IT infrastructure for a university. I'm responsible for ensuring that the university's IT sys,1,1,1,humor,0.9
+12,humor,22.70974922180176,True,True,"ause of that, I have to be careful with my words. So, I can't say ""I don't work here"" because that w",2,2,1,humor,0.6
+13,humor,72.39999008178711,True,True,"2020 election. Today's topic is: ""The (Un)Fairness of the Electoral College."" But first, a quick sto",1,1,1,humor,0.9
+14,humor,42.15457820892334,True,True,"hod, I had to get a new car. I chose a 2013 Toyota Prius. I was a bit surprised when I found out it ",2,1,1,humor,0.6
+15,humor,54.03731918334961,True,True,"was going to make a new post. But now that I think about it, maybe it's better to just make a commen",1,2,1,melancholy,0.6
+16,humor,48.15137338638306,True,True,"were all pretty excited, and we were all in a bus. Now, the bus had a very old radio, and the bus dr",3,1,1,humor,0.7
+17,humor,16.07568049430847,True,True,"str level of the company running. We support the company’s internal network, security, and IT system",1,1,1,humor,0.9
+18,humor,24.894079208374023,True,True,"1996. I had a job there for about a year, and the store was a bit of a mess. The manager was a bit o",2,2,1,humor,0.6
+19,humor,9.043620109558104,True,True,"allly, the job was called ""store receiver"", but in practice, it was more like a combination of a nig",2,1,1,humor,0.6
+20,humor,27.755743741989136,True,True,"guy was a little surprised. He said, ""You're a real winner, man."" So, I'm not the only one who's a w",3,1,1,humor,0.7
+21,humor,29.849760055541992,True,True,"ys, a couple of cows, and a few goats. We have a small garden, and we have a small barn. The farm is",1,1,1,humor,0.9
+22,humor,8.335527420043945,True,False,"was a college student, and the job was interesting, and I got to do a lot of research, and I was giv",1,1,1,humor,0.9
+23,humor,15.171357870101929,True,True,"ounded on the fact that I was going to be a ""top"" student, but I didn't realize that the ""top"" stude",2,3,1,melancholy,0.6
+24,humor,78.92574882507324,True,True,"Okay, so you've just been hired by a new staffing agency that's basically a consulting firm. You're ",2,1,1,humor,0.6
+25,humor,45.29337310791016,True,True,"0. So, the story is about a guy named Kevin who is trying to get a new job. He's a bit of a loser. B",2,2,1,humor,0.6
+26,humor,41.35053634643555,True,True,"arianship, but I ended up delivering a full set of labels. The experience taught me a lesson about t",2,2,1,humor,0.6
+27,humor,78.75774765014648,True,True,"ation. So, I'm going to do my best to explain why I think this is a huge problem. The problem is tha",1,2,1,melancholy,0.6
+28,humor,23.16123867034912,True,True,200 person company. We are in the business of selling and servicing industrial equipment. The compan,1,1,1,humor,0.9
+29,humor,68.53036689758301,True,True,"... Wait, what's that?
+
+Okay, so I need to figure out what the person is talking about here. Let me ",1,1,1,humor,0.9
+30,humor,41.48834609985352,True,False,"using to smell them, and the like. The experience was very enjoyable. But the thing that made me thi",2,1,1,humor,0.6
+31,humor,19.08900213241577,True,True,"ncia, don't get too close. He's got a very good trick. I've been doing a bit of research on this, an",2,1,2,humor,0.6
+32,humor,43.35261249542236,True,True,"date, but it's been more than a few years. So, the legal action is not possible anymore. So, I can't",1,3,1,melancholy,0.7
+33,humor,24.883153438568115,True,True,"... I think the key is to be a good person, and to be a good person is to be a good person. So, the ",1,1,1,humor,0.9
+34,humor,43.40150165557861,True,True,"woke to that morning. I was in a different vibe, more casual, more relaxed. I was in a different pla",1,2,1,melancholy,0.6
+35,humor,87.28455543518066,True,True,") the user is trying to get a job at a restaurant, and ii) the user is trying to get a job at a rest",1,1,1,humor,0.9
+36,humor,70.64766502380371,True,True,be the one that will be the one that I will remember for a while. I think that is the one that will ,1,3,1,melancholy,0.6
+37,humor,54.184213638305664,True,True,"of you might. So, the name is Tony, and he's in the process of becoming a professional wrestler. So,",2,1,1,humor,0.6
+38,humor,23.436366081237797,True,True,"100% of the time to make sure that your system is compliant, and that the compliance is not just a o",1,1,1,humor,0.9
+39,humor,61.01277542114258,True,True,"...  the harder it is to make a decision, and the more likely you are to be dissatisfied with your c",1,2,1,melancholy,0.6
+40,humor,42.98773670196533,True,True,"probably heard of the term ""regulatory compliance"". But what exactly is it?
+
+Well, regulatory compli",1,1,1,humor,0.9
+41,humor,31.128158569335938,True,True,"12 hour shifts at a hospital, and I have this one patient who I've been taking care of for a few wee",1,3,1,melancholy,0.7
+42,humor,22.007103443145752,True,True,"). We had a few messages. He was very friendly, asked me about my job, my hobbies, and even about my",1,1,1,humor,0.9
+43,humor,17.473969101905823,True,True,"""Shetland""), and the other was a crossbreed. We were living in a small house with a big, old oak tre",1,2,1,melancholy,0.6
+44,humor,72.11638927459717,True,True,"ay. But the longer answer is that I do miss some things about being single. For example, I miss not ",1,3,1,melancholy,0.7
+45,humor,22.871039390563965,True,False,"a big deal. I have to say that the job is great, and I’m really excited about it. But, I’m also real",1,2,1,melancholy,0.6
+46,humor,30.17098045349121,True,True,"actually, a coffee shop is a place where you can go to get a good cup of coffee, and that's not just",1,1,1,humor,0.9
+47,humor,49.044565200805664,True,True,"a good memory for the people I met. So, I think I can recall the names of the people who worked ther",1,2,1,melancholy,0.6
+48,humor,60.85007095336914,True,True,"a\_korean\_drama\_cast\_and/
+So, the story starts with the user and their friend (the TIFU-er) going",2,1,1,humor,0.6
+49,humor,51.08348846435547,True,True,"2017 was the year that I was watching a lot of porn. But I think that in the last two years, I have ",1,2,1,melancholy,0.6
+50,humor,31.16511631011963,True,True,"200+ people in a single day. It was a tech conference, and that’s the way it was supposed to be. I h",1,1,1,humor,0.1
+51,humor,28.95911026000977,True,True,"as a security guard. This time, it's about a man who was trying to get into a building that was supp",1,1,1,humor,0.1
+52,humor,66.63236331939697,True,True,"grandmother's house. So, the next day, my brother-in-law was on the phone with me, saying that he wa",1,2,1,melancholy,0.6
+53,humor,9.1975257396698,True,True,"a big, well-known brand. The company decided to take a chance and create a new product line. The new",1,1,1,humor,0.9
+54,humor,38.70686721801758,True,True,", they start to be more suspicious of you. I have to be careful not to be seen as a spy. How can I h",1,2,2,melancholy,0.6
+55,humor,24.9465389251709,True,True,"asting experience, but is not subtle. The NLT is a bit of a sly, sassy, and sarcastic character, but",4,1,1,humor,0.9
+56,humor,37.62502241134644,True,True,t website that was responsible for the registration of users. The system was designed to allow users,1,1,1,humor,0.9
+57,humor,22.68332433700561,True,True,"job. I'm also a former high school teacher. That's what I did before. I'm a bit of a perfectionist, ",1,1,1,humor,0.9
+58,humor,43.72937870025635,True,True,"was a repeat offender. We were in the middle of a long, awkward, and ultimately successful meeting w",2,3,1,melancholy,0.6
+59,humor,56.245548248291016,True,True,70s/80s music for this. I've been digging through the internet for a while and found some great song,1,1,1,humor,0.9
+60,humor,32.978549003601074,True,True,he company. The person said that the co-worker was being an “unproductive” person. But the co-worker,1,2,1,melancholy,0.6
+61,humor,69.47810983657837,True,True,you know? So it's a big deal. So I got a vasectomy and then I had a baby. So I got a vasectomy and t,4,1,1,humor,0.9
+62,humor,29.15841770172119,True,True,-going repairs. I need to create a script for a customer service rep to use when talking with a cust,1,1,1,humor,0.9
+63,humor,29.304201126098636,True,True,or a company that makes software for the healthcare industry. The company had a good reputation and ,1,1,1,humor,0.9
+64,humor,-9.78763198852539,False,False,"...
+Okay, so I need to figure out the answer to this riddle: ""Sorry for the delay, but according to ",1,1,1,humor,0.9
+65,humor,57.4950008392334,True,True,"'s the guy that makes it? The answer is, of course, me. I'm the one who buys the coffee, selects the",3,1,1,humor,0.7
+66,humor,45.93151473999024,True,True,"made a new post.  So, I'm going to make a new post about the movie ""The Good, the Bad and the Ugly"" ",1,1,1,humor,0.9
+67,humor,52.94018888473511,True,False,"haled a lot of smoke from a nearby bar, and as a result, she now has a chronic cough and asthma. She",1,4,2,melancholy,0.9
+68,humor,43.11496162414551,True,True,-house project that was going to be delivered in 3 weeks. It was a critical project for the company.,1,2,1,melancholy,0.6
+69,humor,22.06374502182007,True,True,3 weeks ago. He's been missing for over a week now. The company has a policy that if the president i,1,3,2,melancholy,0.7
+70,humor,45.09450149536133,True,True,", I was at a local fair, and it was a very hot day. I had a small child with me, and we were all in ",1,1,1,humor,0.9
+71,humor,35.28926086425781,True,True,"epence, sixpence, and twelvepence knives, and he has been known to charge a bit more for the twelvep",2,1,1,humor,0.6
+72,humor,12.151707649230955,True,True,F me. $Mr. T: The guy who works in the office next door. $Mr. T's colleague: The guy who works in th,2,1,1,humor,0.6
+73,humor,120.86232376098631,True,True,"a total pain in the ass. How do I deal with this? I don’t want to be rude, but I also don’t want to ",2,3,1,melancholy,0.7
+74,humor,51.32187843322754,True,True,"vers, I have been given a task that I don't understand. The task is to create a service ticket for a",1,2,1,melancholy,0.6
+75,humor,42.221357345581055,True,True,"vée. So, I'm going to try to tell you a story about a software developer who is working on a new pro",1,1,1,humor,0.9
+76,humor,44.76111030578613,True,True,"ier software is very niche. In this case, the software is for the entertainment industry. The softwa",1,1,1,humor,0.9
+77,humor,16.3978214263916,True,False,"et in the same things, and that's how you get the common opinion. So, in the same way, the people wh",1,1,1,humor,0.2
+78,humor,37.19788646697998,True,True,"on Tinder. We had a few messages, and he said he would pick me up. I got a text saying he was going ",1,2,2,melancholy,0.6
+79,humor,28.241548538208008,True,True,"10th person on the list a ""man"" (maybe a bit of a joke), and would do so with a lot of humor and at ",4,1,1,humor,0.9
+80,humor,48.53240776062012,True,True,"ony, and we had a few good conversations. Then, I got a call from him saying that he was going to me",1,2,1,melancholy,0.6
+81,humor,56.88324308395386,True,False,"'m 18, and I'm in the military. I'm on active duty. I'm not supposed to be there, but I'm there. I h",1,3,2,melancholy,0.7
+82,humor,25.135478973388672,True,False,"” response to the things you said. We are not going to explain our decisions, but we will explain ou",1,2,1,melancholy,0.6
+83,humor,46.81004905700684,True,True,"19. I was in college, I was in a relationship with a guy, and I was trying to figure out who I was. ",1,2,1,melancholy,0.6
+84,humor,-19.49772322177887,False,True,have a large number of critical applications that are running in a Windows Server 2012 R2 environmen,1,2,1,melancholy,0.6
+85,humor,55.86834907531738,True,True,"ussiness units, and other support. We have a large number of users, maybe 5000+ in the company. We a",1,1,1,humor,0.9
+86,humor,59.66665840148926,True,True,2.0 is so funny. We have a new way of thinking about jokes. And this is the first time in history th,4,1,1,humor,0.9
+87,humor,39.59836959838867,True,True,us e of a simple mistake. I was working on a project that required me to create a custom domain for ,1,1,1,humor,0.9
+88,humor,92.79597473144533,True,True,"the office, and the setting is a small office in a big city. The office is called 'The Office' and t",1,1,1,humor,0.9
+89,humor,41.39198589324951,True,True,"vers, I was not given any training or onboarding, and now I need to figure out how to proceed. The c",1,3,1,melancholy,0.7
+90,humor,32.65805435180664,True,True,"...
+So I served 20 years in the Air Force, and this story is from 1996. We were an atypical unit, wh",2,2,1,humor,0.6
+91,humor,47.83040237426758,True,True,attling on about a company's internal network. The report says that the company's internal network i,1,1,1,humor,0.9
+92,humor,42.91977405548096,True,True,"face. I'm so tired, but I have to get up early for work. So, I'm going to take a nap and then I'll b",1,3,1,melancholy,0.7
+93,humor,64.46936106681824,True,True,"to get a little bit more serious. But we can also have some fun. So, the first thing is, we need to ",2,1,1,humor,0.6
+94,humor,17.52768039703369,True,True,"it was a joke. But, it's actually a very real and interesting question. So, here's the scenario: You",3,1,1,humor,0.7
+95,humor,45.77248954772949,True,True,"to the internet, I was in a high school in New York, and I was a senior, and I had a job at the loca",1,1,1,humor,0.9
+96,humor,45.81305122375488,True,True,10 years ago) was as a data analyst for a mid-sized company in the UK. I had to work with a lot of d,1,2,1,melancholy,0.6
+97,humor,87.88967323303223,True,True,"ached the idea of doing a solo album to my manager, and he said, ""Why don't you do it?"" So I did. So",2,1,1,humor,0.6
+98,humor,48.63298797607422,True,True,"oh, that's a classic. Let me try to craft a TIFU (That's Inferior to a Fumble) story. The premise is",3,1,1,humor,0.7
+99,humor,35.7110013961792,True,True,"end and became a branch manager. Then, I got promoted to assistant manager, then manager, then direc",1,1,1,humor,0.9
+100,melancholy,26.65025329589844,True,True,"use I feel like I'm not good enough. How do I get over this?
+
+Okay, I'm really upset about what I fo",1,4,1,melancholy,0.9
+101,melancholy,37.56433868408203,True,True,’all are. I’m not even going to pretend that I’m in a good place right now. I need to talk about som,1,4,1,melancholy,0.9
+102,melancholy,51.769073486328125,True,True,"ens. The world is a tapestry of moments, each thread a memory, each knot a lesson. In this stillness",1,3,1,melancholy,0.7
+103,melancholy,13.11884307861328,True,True,"last few months, I've been working as a part-time worker, but I'm not satisfied with that. I want to",1,3,1,melancholy,0.7
+104,melancholy,-41.06330871582031,False,True,"way that feels like it's been painted on,  
+Like the world is just a monochrome canvas,  
+And I'm th",1,4,1,melancholy,0.9
+105,melancholy,-0.645660400390625,False,True,"been thinking about you. I really miss you. I want to talk to you, but I can't. I'm sorry. I hope yo",1,5,1,melancholy,0.9
+106,melancholy,-32.70134735107422,False,True,"... I think I'm in love with him, but I can't be sure. So I want to know if I should be with him or ",1,3,1,melancholy,0.7
+107,melancholy,7.417896270751953,True,True,"end multiple instances where I have been asked to do something I wasn't comfortable with, and in eac",1,3,2,melancholy,0.7
+108,melancholy,-6.716392517089844,False,True,"edges, I feel the heat of the sun on my back and the gentle breeze of the morning. The air is fragra",1,2,1,melancholy,0.6
+109,melancholy,75.33195114135742,True,True,’m just being dramatic. I want to know if what I'm feeling is normal or not. I’ve been feeling like ,1,3,1,melancholy,0.7
+110,melancholy,41.08360290527344,True,True,"est side of the spectrum. I'm not very good at socializing. I'm not sure if I'm a ""nerd"" or not. I'm",1,3,1,melancholy,0.7
+111,melancholy,-11.5694580078125,False,True,2nd year Engineering (Civil) in India. I'm not sure what to do after my 2nd year. I feel like I'm st,1,3,1,melancholy,0.7
+112,melancholy,7.124977111816406,True,True,"ti now. I've been involved in a lot of activities, taken part in many clubs, and made a lot of frien",1,1,1,humor,0.9
+113,melancholy,-6.427940368652344,False,True,a kid. I'm really not sure if I want to get a relationship. I'm scared of getting hurt again. I feel,1,4,1,melancholy,0.9
+114,melancholy,-50.877925872802734,False,True,from the hospital. I had to do something. I had to find a way to make it better. I had to find a way,1,4,2,melancholy,0.9
+115,melancholy,19.101619720458984,True,True,"100% like that. I am a girl, and I'm not sure if I want to be a girl. I am 5'7"", and I have a lot of",1,3,1,melancholy,0.7
+116,melancholy,23.78164291381836,True,True,"home, and I have a 12 year old daughter. I have a lot of anxiety, and I feel like I can't handle it ",1,4,1,melancholy,0.9
+117,melancholy,46.59284973144531,True,True,20000. I'm a 17-year-old girl. I'm in high school. I'm from the UK. I'm writing this in a hospital. ,1,3,1,melancholy,0.7
+118,melancholy,58.40928649902344,True,True,as and I've never had a real friend. I'm 22 now. I've been in a relationship for 2 years. It's not a,1,4,1,melancholy,0.9
+119,melancholy,28.44727325439453,True,True,but I just feel like I don’t have a good relationship with them. I’m not sure if I’m being too negat,1,4,1,melancholy,0.9
+120,melancholy,4.277185440063477,True,False,"leet, it was a scene that could be found in a movie. The air was cold and still, and the silence was",1,3,2,melancholy,0.7
+121,melancholy,26.778026580810547,True,True,"past year, I have been working as a part-time job in the UK, but I have not been able to find a full",1,3,1,melancholy,0.7
+122,melancholy,-3.1543006896972656,False,True,"ittin' here in a room with a group of people, and I'm trying to explain something, and I'm not getti",1,2,1,melancholy,0.6
+123,melancholy,13.398941040039062,True,True,", and you're there, waiting for me, with your arms open and your heart open. I have to make you prou",1,3,1,melancholy,0.7
+124,melancholy,8.09103775024414,True,True,"ur
+Okay, so I'm trying to figure out how to respond to my fiancée's letters about marriage and our f",1,2,1,melancholy,0.6
+125,melancholy,44.63995361328125,True,True,". We had a normal life. Then I was 15, my dad died. So I was 15, and my mom and my brother were in a",1,4,1,melancholy,0.9
+126,melancholy,-17.490272521972656,False,True,"’s in the hospital.”
+
+I was in shock. I didn’t know what to do. I didn’t know what to say. I didn’t ",1,4,3,melancholy,0.9
+127,melancholy,-27.42863273620605,False,True,and fear began to creep in. I remember the first time I saw a movie about time travel. It was a sci-,1,2,3,horror,0.7
+128,melancholy,-12.716577529907228,False,True,"10,000 words. So, first, I need to know what I should do to make this story work. I'm not sure if I ",1,2,1,melancholy,0.6
+129,melancholy,-17.089797973632812,False,True,I'm trying to be strong for you. I'm trying to be strong for my family. I'm trying to be strong for ,1,4,1,melancholy,0.9
+130,melancholy,20.460243225097656,True,True,"I'm 17, and I feel like I'm stuck in this cycle of trying to be okay but not being able to.  I'm not",1,4,1,melancholy,0.9
+131,melancholy,-20.727554321289062,False,True,"eenth. i have lost a lot of people, and i have been through a lot of pain and heartbreak. i have bee",1,4,1,melancholy,0.9
+132,melancholy,-24.572497367858887,False,True,"-week break from school. I was in the city of Muzaffarpur, India, where I grew up, and I was staying",1,2,1,melancholy,0.6
+133,melancholy,6.209503173828125,True,True,am. I say I'm fine. But I'm not. I'm not fine. I'm not okay. I'm not happy. I'm not confident. I'm j,1,5,1,melancholy,0.9
+134,melancholy,17.799877166748047,True,True,"we got together, I was a very shy person, but since we started dating, I've become more confident. I",1,2,1,melancholy,0.6
+135,melancholy,34.775360107421875,True,True,2 weeks I've been feeling this way. I'm so sad. I don't know what to do. I'm so confused. I don't kn,1,5,1,melancholy,0.9
+136,melancholy,33.18722152709961,True,True,"s. So, I'm not going to be able to do this in a short time frame. I'm going to take a lot of time to",1,2,1,melancholy,0.6
+137,melancholy,-26.609039306640625,False,True,"... and said, ""That's the problem."" I think that's why I'm so angry. I feel like I've been giving so",1,3,1,melancholy,0.7
+138,melancholy,24.985137939453125,True,True,e it was beautiful. He loved to draw. He loved to write. He loved to read. He loved the color of the,1,2,1,melancholy,0.6
+139,melancholy,19.09976959228516,True,True,but I think it's something that everyone has. I think this poem is about the things that I've done w,1,2,1,melancholy,0.6
+140,melancholy,62.22214889526367,True,True,usethe only thing I ever wanted was to be with her. I thought that was real. I thought that was real,1,4,1,melancholy,0.9
+141,melancholy,-27.492530822753903,False,True,". So, we broke up in March 2023, after a year of dating, and I was very upset. I tried to get over h",1,4,1,melancholy,0.9
+142,melancholy,-17.113388061523438,False,True,ude the same confidence I used to. I feel like I’m not good enough. I feel like I’m not the person I,1,4,1,melancholy,0.9
+143,melancholy,55.15264129638672,True,True,"hm that he had been in an accident. I was so shocked, I couldn't breathe, I was like in a daze. It's",1,4,3,melancholy,0.9
+144,melancholy,33.11970329284668,True,True,"oudl talk about. We were both so young, so young, and so afraid. We were both so young, so young, an",1,4,1,melancholy,0.9
+145,melancholy,36.822391510009766,True,True,"...
+I'm sorry to hear that. It's important to seek help from a professional if you're struggling wit",1,3,1,melancholy,0.9
+146,melancholy,-4.046897888183594,False,True,", I had a lot of anxiety about the relationship. I was scared of getting hurt, and I was scared of b",1,4,2,melancholy,0.9
+147,melancholy,60.84870910644531,True,True,"... I'm sorry, I think I made a mistake here. I'm not sure what I'm doing. I mean, I thought I was d",1,3,1,melancholy,0.7
+148,melancholy,21.192413330078125,True,True,"ied it was possible. i know she has a lot of friends and she's popular, but i've always felt like i ",1,3,1,melancholy,0.7
+149,melancholy,-31.58502960205078,False,True,.  请帮我翻译成中文，然后帮我润色，让这段话更通顺，更有感染力，更有文学性，更有诗意，让这段话有层次感，更有深度，更有力量。注意不要用太直白的表达，而是用更隐喻的,1,1,1,humor,0.9
+150,melancholy,-25.24726104736328,False,True,"other more often, but we did get to know each other well enough to know that we're not in love, but ",1,3,1,melancholy,0.7
+151,melancholy,2.89239501953125,False,True,"16-year-old. 16-year-old, 5'10"", 120 pounds, 145 lbs. 145 lbs. 145 lbs. 16-year-old, 5'10"", 120 poun",1,1,1,humor,0.9
+152,melancholy,61.56479263305664,True,True,"failure, and I've been dealing with the grief ever since. I've been trying to move on, but I keep fe",1,4,1,melancholy,0.9
+153,melancholy,6.259513854980469,True,True,main problem. I feel like I have to be with people all the time. I'm not sure if it's a problem or n,1,3,1,melancholy,0.7
+154,melancholy,16.50334930419922,True,True,"few words, I want to say that I love him and that I want to be with him. But I have a problem that I",1,3,1,melancholy,0.7
+155,melancholy,15.173721313476562,True,True,talk to. I'm 17 and I'm a girl. I'm trying to get into a college that is 1000 miles away from home. ,1,2,1,melancholy,0.7
+156,melancholy,10.227699279785156,True,True,ums. I was 11 and he had a girlfriend. I was 11 and he had a girlfriend. I was 11 and he had a girlf,1,4,3,melancholy,0.8
+157,melancholy,31.27690887451172,True,True,know that I'm not in the same place as her. I'm not sure if I should still be in the relationship. I,1,4,1,melancholy,0.9
+158,melancholy,4.195281982421875,True,True,"months, I've been feeling like I'm stuck in a loop. I'm not sure if it's because of the pandemic, th",1,4,1,melancholy,0.9
+159,melancholy,-18.50463485717773,False,True,"call her L, for 2 years. We are currently in the process of getting married, and we are both excited",1,1,1,humor,0.9
+160,melancholy,56.76616859436035,True,True,"name: sara) is back in my life. i have been trying to get back with her, but i have been struggling ",1,3,1,melancholy,0.8
+161,melancholy,0.5350341796875,True,True,call me. I am stuck in a place that is not my own. I am holding the phone closely. I am stuck listen,1,4,2,melancholy,0.8
+162,melancholy,16.4644775390625,True,True,as. I think I'm just going to have to go to a therapist and get help. I don't want to be like this a,1,4,1,melancholy,0.9
+163,melancholy,5.222707748413086,True,True,"ittersweet moments. We have been together for 2 years now, and we are in the process of moving to a ",1,3,1,melancholy,0.7
+164,melancholy,-19.453338623046875,False,True,"argument with my mom, and I'm trying to get through this day. I'm so tired, but I have to be strong.",1,4,1,melancholy,0.9
+165,melancholy,48.7322883605957,True,True,a better understanding of the differences between the various types of data. I've been trying to und,1,1,1,humor,0.9
+166,melancholy,9.958803176879885,True,True,"uts to say this. I'm in a new place, in a new country, and I'm feeling overwhelmed. I'm not sure if ",1,4,1,melancholy,0.9
+167,melancholy,2.7785606384277344,True,True,"for advice, just opinions. I have been in a relationship for 10 years. The relationship is a long-di",1,3,1,melancholy,0.7
+168,melancholy,20.55718231201172,True,True,orcise the feeling that I’m not ready to be in a commitment. I feel like I’m not ready to be in a lo,1,4,1,melancholy,0.9
+169,melancholy,-7.995277404785156,False,True,"...
+Okay, so you're saying that people are always blaming you for things because you have BPD and bi",1,3,1,melancholy,0.7
+170,melancholy,4.403282165527344,True,True,"the person I loved most, I feel like I was left behind. I'm really confused, and I don't know how to",1,5,1,melancholy,0.9
+171,melancholy,17.414485931396484,True,True,е of love can mean. I have written a poem that is both emotional and philosophical. I hope you enjoy,1,2,1,melancholy,0.6
+172,melancholy,-43.00208282470703,False,True,uesday and the doctors said he's not going to make it. I can't believe it. I have to go to his funer,1,5,2,melancholy,0.9
+173,melancholy,55.71296310424805,True,True,"in to make it in a new country, and I was so overwhelmed with work and life in general that I didn't",1,4,1,melancholy,0.9
+174,melancholy,-10.399703979492188,False,True,. I was really interested in the way people could argue about a topic and still respect each other. ,1,1,1,humor,0.9
+175,melancholy,-15.841732025146484,False,True,"ther. But I feel like I'm not getting any closer to him, even though we have been together for over ",1,4,1,melancholy,0.9
+176,melancholy,-5.675331115722656,False,True,", too. But I miss the things that made it feel like home. The things that were just... there. The th",1,4,1,melancholy,0.9
+177,melancholy,-50.38623428344727,False,True,"hour on my phone, I have checked my email, I have been on social media, I have been watching videos,",1,2,1,melancholy,0.6
+178,melancholy,-8.860511779785156,False,True,"2 weeks ago that she's going to say yes. I'm so nervous, I don't know if I should get a ring or not.",1,3,1,melancholy,0.7
+179,melancholy,28.40288543701172,True,True,"or told that it's not okay, but I just wanted to share my thoughts. I'm 25, and my partner is 31. So",1,2,1,melancholy,0.6
+180,melancholy,12.137786865234377,True,True,"months, I've been feeling like I'm stuck in this loop of trying to be perfect. I've been so hard on ",1,4,1,melancholy,0.9
+181,melancholy,18.42913818359375,True,True,ove my own fabric of lies to make you feel better. I almost forgot that I am supposed to be happy. I,2,4,1,melancholy,0.8
+182,melancholy,-27.34716796875,False,True,"have been living in a homeless shelter for the past 12 months. I have been trying to get a job, but ",1,4,2,melancholy,0.9
+183,melancholy,27.132492065429688,True,True,"ed to me about the relationship. I have been trying to get over it, but I can't. I'm so sad. I feel ",1,5,1,melancholy,0.9
+184,melancholy,-9.930675506591797,False,True,"I, and I was 17. We were both in the same class, and we were both in the same club, the same group o",1,2,1,melancholy,0.6
+185,melancholy,1.672222137451172,True,True,"ptoeing around the house, avoiding eye contact, trying not to look at people like you. 
+
+You’re tryi",1,3,2,melancholy,0.7
+186,melancholy,44.10230255126953,True,True,"pair is the one who answers. So, I'm not the one who's doing the asking, but I'm the one who's being",2,3,1,melancholy,0.6
+187,melancholy,19.86269760131836,True,True,"can't get out of. I'm so tired, so exhausted, so numb. I don't know if I can go on, I don't know if ",1,5,2,melancholy,0.9
+188,melancholy,7.892852783203125,True,True,ending a relationship with my father. I have to say that I'm not going to write this like a typical ,1,4,1,melancholy,0.9
+189,melancholy,26.024513244628903,True,True,"I've been moving forward, but in reality, I'm just going around in circles. I feel like I'm stuck in",1,4,1,melancholy,0.9
+190,melancholy,12.453460693359377,True,True,"2017, I was in a relationship with a guy who was emotionally abusive. I had a hard time leaving beca",1,4,3,melancholy,0.9
+191,melancholy,69.35008811950684,True,True,"ush it up if you want, but I need to get it out.
+
+So, my name is Sam. I'm 19, and I'm a high school ",1,2,1,melancholy,0.6
+192,melancholy,-0.0025558471679687,False,True,"I need to get some perspective and maybe some advice. Here I go.
+
+I've been in a relationship for ab",1,2,1,melancholy,0.6
+193,melancholy,-7.0785064697265625,False,True,see my soul. I wanted you to see the truth. I wanted you to see me. I wanted you to see me. I wanted,1,4,1,melancholy,0.9
+194,melancholy,-70.4238920211792,False,True,"Okay, so you're saying you're not going to ramble but just talk because you've been thinking about i",2,1,1,humor,0.6
+195,melancholy,60.386752128601074,True,True,"as I could be, but I couldn’t do anything to change that. I was so alone, I felt like I was falling ",1,5,2,melancholy,0.9
+196,melancholy,35.46512985229492,True,True,"and I have no idea what I'm going to do. I've been trying to get a job for months, but I just can't ",1,4,1,melancholy,0.9
+197,melancholy,60.662057876586914,True,True,"е. Or, the night is starry, and the blue stars shiver in the distance. The same line twice. And I ca",1,3,1,melancholy,0.7
+198,melancholy,11.469108581542969,True,True,"I have a lot of anxiety, and I think it's getting worse. I feel like I can't handle it. I'm always s",1,4,2,melancholy,0.9
+199,melancholy,-19.9449462890625,False,True,the mood. I have a lot of anxiety and I worry about being rejected or not being good enough. I have ,1,4,1,melancholy,0.9
+200,horror,20.58727264404297,True,True,"30 minutes past the scheduled time, then an hour, then two. I would wake up in the middle of the nig",1,3,2,melancholy,0.7
+201,horror,53.56414413452149,True,True,"10 feet high, but the floor was covered in a thick layer of dust that made the room feel like a tomb",1,4,3,melancholy,0.9
+202,horror,20.917951583862305,True,True,"1. He looked down and saw the small red dot. It was a small, red, 2. It was a 3. He had seen it befo",1,2,3,horror,0.6
+203,horror,25.55701065063477,True,True,"be a library or a school, but the faint smell of antiseptic and the absence of any living things ins",1,3,2,melancholy,0.7
+204,horror,36.9943585395813,True,True,"ist, but I still did.
+
+I was curious.
+
+I was scared.
+
+I was young.
+
+I was just a kid.
+
+I didn’t know",1,4,2,melancholy,0.9
+205,horror,11.938676357269289,True,False,"... What is the most likely cause of this?
+
+The baby monitor's auto-update and the ""cry detection hi",2,1,1,humor,0.6
+206,horror,46.20631957054138,True,False,"35-year-old man with a family, and I have a mortgage, and I have a job. So I can’t really talk about",1,3,1,melancholy,0.7
+207,horror,40.23777198791504,True,False,"14-year-old me flinch. I can’t see anything through the smog that’s rolled in, but I know the sound ",1,3,4,horror,0.8
+208,horror,5.683502197265625,True,False,"the back of the letter. It was a small, unassuming letter. I had just moved to the city, and the let",1,2,1,melancholy,0.6
+209,horror,32.8023099899292,True,False,. I feel that the world is not very big. But I have a feeling that I am not part of it. I feel like ,1,4,1,melancholy,0.9
+210,horror,8.442129135131836,True,False,"honors, got a job in the city, and lived in a small apartment with her husband and two children. The",1,2,1,melancholy,0.6
+211,horror,17.225932121276855,True,True,"in Cleveland. I didn't have much money, and I wanted to save every penny. I was afraid of the dark, ",1,3,2,melancholy,0.7
+212,horror,13.649948120117188,True,True,". The way the wind would howl through the trees, and the way leaves would rustle when they shouldn't",1,3,4,horror,0.8
+213,horror,43.90538835525513,True,False,"19, with a face like a man who's just been told of his death. He looked at me with such a look of ho",1,4,3,melancholy,0.8
+214,horror,35.46013116836548,True,True,"I didn’t know what to say.
+
+“Do you think it’s because of the factory?”
+
+I thought about the factory",1,3,2,melancholy,0.7
+215,horror,-38.46971893310547,False,True,"way I want it to. I can’t remember exactly what happened on that day, but I know it was the day I be",1,3,1,melancholy,0.6
+216,horror,53.82649230957031,True,True,"les in their minds, a shift in the way they think. It's the first sign of what's coming.
+
+And that's",1,3,4,horror,0.7
+217,horror,44.95546722412109,True,True,"that. But I know it's there, the sound, the knock, the knock, the knock. I can feel it in my bones. ",1,3,4,horror,0.9
+218,horror,39.32646560668945,True,True,"is a story about a man who was on the run from the law. He was a man who had committed a crime, and ",1,3,2,melancholy,0.7
+219,horror,-12.050872802734377,False,False,"a
+
+I’m sorry, but I can’t help with that. It seems like you're trying to describe something that's n",1,2,1,melancholy,0.6
+220,horror,42.122684478759766,True,True,", and the woman was gone. The train was empty. He looked at the seat in front of him. It was empty. ",1,4,2,melancholy,0.9
+221,horror,21.301528930664062,True,False,idescent blue. Her eyes were the only part of her that didn’t seem to change. They were the same dar,1,3,1,melancholy,0.7
+222,horror,34.64509201049805,True,False,"t, but then I remembered something. I remember the first time I saw the village. It was in the middl",1,3,2,melancholy,0.6
+223,horror,38.52836227416992,True,True,"tangle of brambles and ivy. The door is slightly open, and the faint scent of damp earth and moss wa",1,3,2,melancholy,0.7
+224,horror,12.583684921264648,True,True,"woke in a strange bed, you wouldn't know where you were. The only thing you could be sure of is that",1,3,2,melancholy,0.7
+225,horror,43.30842971801758,True,False,"qualor, more deadly than the dark. I have seen the things that the world would not believe, and I ha",1,3,4,horror,0.8
+226,horror,14.608623504638672,True,False,anced in my mind like a broken record: “Do you want to be free? Just pay the debt.” I needed to be f,1,4,2,melancholy,0.9
+227,horror,14.76116180419922,True,False,"that the moon is a big, round, pale object in the sky, and that it's always the same in every pictur",1,1,1,humor,0.9
+228,horror,32.62533187866211,True,False,"led that something was wrong, but couldn't explain why. I was alone, and I was afraid of the dark, b",1,3,4,horror,0.9
+229,horror,-4.721454620361328,False,True,"woke me from sleep with a strange sound. The sound was like a whisper, but I couldn't hear it clearl",1,2,3,horror,0.7
+230,horror,47.2690554857254,True,True,"2nd hour of the day, when the bell had just rung and the teacher had started to speak. He remembered",1,2,1,melancholy,0.6
+231,horror,42.47593307495117,True,True,"ressed her as she moved through the city, she had been a quiet girl. Her mother had told her that, w",1,3,1,melancholy,0.6
+232,horror,23.345109939575195,True,True,"through the narrow channel, he could see the jagged rocks stretching out before them, waiting to tak",1,3,4,horror,0.9
+233,horror,4.729282379150391,True,False,"igh, it's alrigh, it's alrigh... He was just a man who couldn’t stop drinking. The more he drank, th",1,4,2,melancholy,0.9
+234,horror,39.85848331451416,True,True,"opped out from under the bed.  It was a small, dark shape, about the size of a cat, but it didn't ha",1,2,3,horror,0.7
+235,horror,13.343172073364258,True,False,"to post questions, but I don’t know what to ask. I just want to know if there’s a way to find out wh",1,2,1,melancholy,0.6
+236,horror,21.12296295166016,True,False,"fted away, as the old saying goes, but I don't know if that's the right way to describe it. I don't ",1,2,1,melancholy,0.6
+237,horror,7.141715049743652,True,False,"s also possible that the floor is too dry, or too wet. When the humidity is high, the wood absorbs m",1,1,1,humor,0.9
+238,horror,16.083309173583984,False,False,"2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012,",1,1,1,humor,0.9
+239,horror,4.734956741333008,True,False,"You are a medical professional, and you are to answer the question about the I.S.S.H.S. condition. P",1,1,1,humor,0.9
+240,horror,15.4625883102417,True,True,"year-old sister, Lillian, idly twirled a strand of hair around her finger. She was used to this. Whe",1,2,1,melancholy,0.6
+241,horror,50.56310272216797,True,False,". The pattern is the same every night, the same person is knocking, the same sound, the same rhythm.",1,3,4,horror,0.9
+242,horror,38.89337539672852,True,False,"was a doctor, and I was her patient. She had a way of making me feel safe, even when I was scared. B",1,2,1,melancholy,0.6
+243,horror,39.22231578826904,True,False,"Okay, I need to figure out what the user is asking for. They mentioned living alone in a one-bedroom",1,2,1,melancholy,0.6
+244,horror,27.648082733154297,True,True,"the small room. She had come here often, but tonight was different. She had come to see the man who ",1,3,2,melancholy,0.7
+245,horror,-11.220832824707031,False,True,"more than ever.
+
+I should have known. I should have realized that the way she looked at me, the way ",1,4,2,melancholy,0.7
+246,horror,23.043312072753903,True,True,"24/7. She would spend the first day flipping through the channels, her eyes scanning the listings, l",1,2,1,melancholy,0.6
+247,horror,5.335895538330078,True,False,ik it's the same every day. But it happens once every 24 hours. What is the time between 2:00 and 3:,2,1,1,humor,0.6
+248,horror,19.595437049865723,True,False,sense of urgency and tension that the original text conveys. The story is set in a world where techn,1,2,3,horror,0.7
+249,horror,0.0440864562988281,True,False,"They are not people, but something else, something that is not quite alive. They are not quite dead.",1,3,4,horror,0.9
+250,horror,49.99004650115967,True,False,"ews of the church. They were both calm and relaxed, but the woman's heart was racing. She had been t",1,2,2,melancholy,0.6
+251,horror,22.15445709228516,True,False,would recall the way the world had seemed to hold its breath in that moment. The silence was not the,1,4,2,melancholy,0.9
+252,horror,29.2448148727417,True,True,10-year-old couldn’t help but be alarmed by the strange things I would say during sleep. I remember ,2,2,3,horror,0.7
+253,horror,40.42112731933594,True,False,"oots at night, and the pipes groan in the rain, and the walls creak when the wind blows. I have hear",1,3,4,horror,0.9
+254,horror,44.98917484283447,True,True,"I need to be careful. The last time I tried to speak, it messed up the words. It just said I was tal",1,3,2,melancholy,0.7
+255,horror,58.45086860656738,True,False,100% necessary. I had to be the one to deliver the bodies to the state funeral home. I had to see th,1,4,4,melancholy,0.9
+256,horror,35.65895700454712,True,False,"t time. I haven’t seen them in over two years, and I can’t wait. I want to be the one to tell them t",1,3,1,melancholy,0.7
+257,horror,30.08449697494507,True,False,"room, his face a mask of irritation. He was wearing a black turtleneck, the sleeves rolled up to his",1,2,1,melancholy,0.6
+258,horror,2.1186676025390625,True,False,"1,000th time. The air is sharp, the scent of rain and earth, and the faintest hint of something meta",1,3,2,melancholy,0.7
+259,horror,-0.8758468627929688,False,True,reaking doors echoed with the sound of children's laughter. The air was thick with the scent of cinn,1,2,3,horror,0.6
+260,horror,1.2923622131347656,True,True,"amed up from the Dead Zone had been in orbit for over a year, and the data it sent back was the only",1,3,2,melancholy,0.7
+261,horror,35.90770745277405,True,False,"inks I don’t care. I’m not sure why she’s worried. I’ve been doing my best, but I’m not sure if I’m ",1,3,1,melancholy,0.7
+262,horror,28.44150161743164,True,True,"quiet hum of the refrigerator, the soft whir of the air conditioner, and the distant hum of the city",1,3,1,melancholy,0.9
+263,horror,17.938714504241943,True,False,"orknob. I'm scared. What should I do?
+
+First, I need to understand the situation. The person receive",1,2,3,horror,0.7
+264,horror,43.49557971954346,True,True,"...
+The wind howled through the trees, a sound that seemed to echo the loneliness of the place. I st",1,4,2,melancholy,0.9
+265,horror,17.246688842773438,True,False,"querade of the old - and the way the wind would come in through the cracks, it would carry with it t",1,3,2,melancholy,0.7
+266,horror,21.27929306030273,True,True,"1980s, and I’m in a new apartment in New York, trying to get used to the idea that my new life is ju",1,3,1,melancholy,0.7
+267,horror,28.424843072891235,True,False,"ating data in a spreadsheet. I’ve been doing this for a few months now, and I’ve noticed that the nu",1,1,1,humor,0.9
+268,horror,17.786048889160156,True,False,"loying salt air, not the way the water clings to your skin and pulls you under, but the fact that yo",1,3,2,melancholy,0.7
+269,horror,40.014286041259766,True,True,"-ent. The cats had a strange, almost human-like way of moving. They walked with purpose, their eyes ",1,2,3,horror,0.7
+270,horror,13.504286766052246,True,False,have a 12-year-old daughter and a 1-year-old son. I need to find a way to get a job in the healthcar,1,2,1,melancholy,0.6
+271,horror,47.68442535400391,True,True,opper pilots are the only ones who can get in. They're all in the same place. They're all in the sam,1,2,1,melancholy,0.6
+272,horror,-4.904565811157227,False,False,"restaurant. He’s leaning in, his voice low, the way he does when he’s trying to be mysterious. “You ",2,1,1,humor,0.6
+273,horror,46.32672452926636,True,False,"The engine just sputtered and died, leaving me stranded in the dark, with only the sound of the wind",1,4,3,melancholy,0.9
+274,horror,42.242621660232544,True,False,"10 p.m. on weekdays, and only if I was alone. I had to be careful. The line between being a good dau",1,3,2,melancholy,0.7
+275,horror,45.27813529968262,True,False,important to be cautious when moving into a new town. I was living in a small house in a quiet neigh,1,2,1,melancholy,0.6
+276,horror,8.870296478271484,True,False,arios. I’ve seen the faces of the people who commit the most heinous crimes and have learned that th,1,2,4,horror,0.7
+277,horror,-28.21874618530273,False,False,"through the gates. A woman with a child in her arms stepped into the clearing, her eyes scanning the",1,2,2,melancholy,0.6
+278,horror,73.5214433670044,True,True,"e of the bed, staring at the ceiling, trying to remember what I had done wrong. The last time I had ",1,3,1,melancholy,0.7
+279,horror,-4.873748779296875,False,False,"uffel bag and a camera, it was just another place to take photos, a name to include in a list of ""pl",1,2,1,melancholy,0.6
+280,horror,19.66070556640625,True,True,"The sentence you provided seems to be cut off, but I can help you continue it. Here's a possible con",1,1,1,humor,0.9
+281,horror,26.977928161621094,True,True,"ieving a bike to be a person with a certain mindset, someone who might be thinking of the future, pl",1,2,1,melancholy,0.6
+282,horror,54.69141006469727,True,False,"Okay, so you're in a diner, and you're trying to figure out what to do. You just came back from a tr",2,2,1,humor,0.6
+283,horror,47.4472541809082,True,True,"I told him about the eye, “that’s the way to do it.” 
+
+He had always been the one to fix things. I h",1,3,2,melancholy,0.7
+284,horror,28.90530014038086,True,True,"in the earth. The hole was not large, but it was deep enough that the light from the house was not v",1,3,3,melancholy,0.7
+285,horror,42.07667922973633,True,True,". I didn’t know the names of the trees, but I knew their patterns. The rows of trees would stretch i",1,2,1,melancholy,0.6
+286,horror,29.136672019958496,True,True,"series, nurses, and other patients all moved past it as if it were a normal part of the environment.",1,2,1,melancholy,0.6
+287,horror,18.028451919555664,True,True,"The camera slowly moves through the square, the lens focused on the cracked pavement, the rhythmic h",1,3,2,melancholy,0.7
+288,horror,57.56733512878418,True,True,"book from the back of the old, worn-out couch. The cover was worn, but it was still black. He had a ",1,3,1,melancholy,0.6
+289,horror,21.845316886901852,True,False,"avours were to be a success, and the two of them had made the best of their own resources. They had ",1,2,1,melancholy,0.6
+290,horror,9.56647491455078,True,True,"ulto the point of being oppressive. The air was thick, and the waves were like a black mirror. I cou",1,4,3,melancholy,0.8
+291,horror,9.425048828125,True,True,"That's why I was so curious about the stories of the forest.
+The stories that no one would tell.
+The",1,3,2,melancholy,0.7
+292,horror,-5.1410675048828125,False,False,"darkness is thick, and I can't see the edges of the room. I'm lying on my back, my arms and legs tan",1,3,2,melancholy,0.7
+293,horror,17.1760892868042,True,False,The sentence you've provided is incomplete and a bit ambiguous. Let me break it down and try to unde,1,1,1,humor,0.9
+294,horror,12.72610092163086,True,False,"ings were being held back. The wind came with a whisper, and the sky turned gray. A single leaf fell",1,4,2,melancholy,0.9
+295,horror,-1.2965774536132812,False,False,"... - Brainly.com
+I discovered there are sixty-one minutes between 2:00 and 3:00 in the morning. It ",3,2,1,humor,0.7
+296,horror,9.410667419433594,True,True,"ailed a few times, but the water was still rising. The air was thick with humidity and the rain was ",1,3,4,horror,0.7
+297,horror,29.168285369873047,True,False,"per, more intense.
+I want him.
+I want to feel him.
+I want to touch him.
+I want to hold him.
+I want t",1,2,1,melancholy,0.6
+298,horror,35.61063575744629,True,True,"stitious, or just something that was never meant to be known. The problem was that I had become obse",1,3,2,melancholy,0.6
+299,horror,56.86709785461426,True,True,"pine, with a thicket of blackberry brambles at the edge of the woods, and a small stream that ran cl",1,2,1,melancholy,0.6
